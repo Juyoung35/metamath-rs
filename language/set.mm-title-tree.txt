@@ -1,0 +1,1771 @@
+1. CLASSICAL FIRST-ORDER LOGIC WITH EQUALITY $ in 12710th byte.
+  1.1. Pre-logic $ in 14463th byte.
+    1.1.1. Inferences for assisting proof development $ in 17289th byte.
+  1.2. Propositional calculus $ in 21185th byte.
+    1.2.1. Recursively define primitive wffs for propositional calculus $ in 22931th byte.
+    1.2.2. The axioms of propositional calculus $ in 26542th byte.
+    1.2.3. Logical implication $ in 31530th byte.
+    1.2.4. Logical negation $ in 67365th byte.
+    1.2.5. Logical equivalence $ in 96219th byte.
+    1.2.6. Logical conjunction $ in 159904th byte.
+    1.2.7. Logical disjunction $ in 286500th byte.
+    1.2.8. Mixed connectives $ in 316303th byte.
+    1.2.9. The conditional operator for propositions $ in 351582th byte.
+    1.2.10. The weak deduction theorem for propositional calculus $ in 361682th byte.
+    1.2.11. Abbreviated conjunction and disjunction of three wff's $ in 363973th byte.
+    1.2.12. Logical "nand" (Sheffer stroke) $ in 469029th byte.
+    1.2.13. Logical "xor" $ in 476164th byte.
+    1.2.14. Logical "nor" $ in 482552th byte.
+    1.2.15. True and false constants $ in 486627th byte.
+      1.2.15.1. Universal quantifier for use by df-tru $ in 486822th byte.
+      1.2.15.2. Equality predicate for use by df-tru $ in 489060th byte.
+      1.2.15.3. The true constant $ in 493198th byte.
+      1.2.15.4. The false constant $ in 497072th byte.
+    1.2.16. Truth tables $ in 499882th byte.
+      1.2.16.1. Implication $ in 500632th byte.
+      1.2.16.2. Negation $ in 502185th byte.
+      1.2.16.3. Equivalence $ in 502713th byte.
+      1.2.16.4. Conjunction $ in 503874th byte.
+      1.2.16.5. Disjunction $ in 504650th byte.
+      1.2.16.6. Alternative denial $ in 505556th byte.
+      1.2.16.7. Exclusive disjunction $ in 506776th byte.
+      1.2.16.8. Joint denial $ in 507852th byte.
+    1.2.17. Half adder and full adder in propositional calculus $ in 512483th byte.
+      1.2.17.1. Full adder: sum $ in 514109th byte.
+      1.2.17.2. Full adder: carry $ in 518468th byte.
+  1.3. Other axiomatizations related to classical propositional calculus $ in 524546th byte.
+    1.3.1. Minimal implicational calculus $ in 524782th byte.
+    1.3.2. Implicational Calculus $ in 529884th byte.
+    1.3.3. Derive the Lukasiewicz axioms from Meredith's sole axiom $ in 541755th byte.
+    1.3.4. Derive the standard axioms from the Lukasiewicz axioms $ in 550046th byte.
+    1.3.5. Derive Nicod's axiom from the standard axioms $ in 554003th byte.
+    1.3.6. Derive the Lukasiewicz axioms from Nicod's axiom $ in 558561th byte.
+    1.3.7. Derive Nicod's Axiom from Lukasiewicz's First Sheffer Stroke Axiom $ in 566698th byte.
+    1.3.8. Derive the Lukasiewicz Axioms from the Tarski-Bernays-Wajsberg Axioms $ in 569076th byte.
+    1.3.9. Derive the Tarski-Bernays-Wajsberg axioms from Meredith's First CO Axiom $ in 575124th byte.
+    1.3.10. Derive the Tarski-Bernays-Wajsberg axioms from Meredith's Second CO Axiom $ in 585495th byte.
+    1.3.11. Derive the Lukasiewicz axioms from the Russell-Bernays Axioms $ in 591682th byte.
+    1.3.12. Stoic logic non-modal portion (Chrysippus of Soli) $ in 599678th byte.
+  1.4. Predicate calculus with equality:  Tarski's system S2 (1 rule, 6 schemes) $ in 613808th byte.
+    1.4.1. Universal quantifier (continued); define "exists" and "not free" $ in 618270th byte.
+      1.4.1.1. Existential quantifier $ in 619266th byte.
+      1.4.1.2. Nonfreeness predicate $ in 620918th byte.
+    1.4.2. Rule scheme ax-gen (Generalization) $ in 626147th byte.
+    1.4.3. Axiom scheme ax-4 (Quantified Implication) $ in 630852th byte.
+      1.4.3.1. The empty domain of discourse $ in 661995th byte.
+    1.4.4. Axiom scheme ax-5 (Distinctness) - first use of $d $ in 663697th byte.
+    1.4.5. Equality predicate (continued) $ in 685566th byte.
+    1.4.6. Axiom scheme ax-6 (Existence) $ in 688692th byte.
+    1.4.7. Axiom scheme ax-7 (Equality) $ in 705892th byte.
+    1.4.8. Define proper substitution $ in 734417th byte.
+    1.4.9. Membership predicate $ in 755322th byte.
+    1.4.10. Axiom scheme ax-8 (Left Equality for Binary Predicate) $ in 758538th byte.
+    1.4.11. Axiom scheme ax-9 (Right Equality for Binary Predicate) $ in 763572th byte.
+    1.4.12. Logical redundancy of ax-10 , ax-11 , ax-12 , ax-13 $ in 767585th byte.
+  1.5. Predicate calculus with equality:  Auxiliary axiom schemes (4 schemes) $ in 781327th byte.
+    1.5.1. Axiom scheme ax-10 (Quantified Negation) $ in 782859th byte.
+    1.5.2. Axiom scheme ax-11 (Quantifier Commutation) $ in 788474th byte.
+    1.5.3. Axiom scheme ax-12 (Substitution) $ in 795101th byte.
+    1.5.4. Axiom scheme ax-13 (Quantified Equality) $ in 883306th byte.
+  1.6. Uniqueness and unique existence $ in 978396th byte.
+    1.6.1. Uniqueness: the at-most-one quantifier $ in 980057th byte.
+    1.6.2. Unique existence: the unique existential quantifier $ in 994769th byte.
+  1.7. Other axiomatizations related to classical predicate calculus $ in 1046849th byte.
+    1.7.1. Aristotelian logic: Assertic syllogisms $ in 1047081th byte.
+    1.7.2. Intuitionistic logic $ in 1077999th byte.
+2. ZF (ZERMELO-FRAENKEL) SET THEORY $ in 1083997th byte.
+  2.1. ZF Set Theory - start with the Axiom of Extensionality $ in 1085654th byte.
+    2.1.1. Introduce the Axiom of Extensionality $ in 1085879th byte.
+    2.1.2. Classes $ in 1091617th byte.
+      2.1.2.1. Class abstractions $ in 1091941th byte.
+      2.1.2.2. Class equality $ in 1104827th byte.
+      2.1.2.3. Class membership $ in 1143696th byte.
+      2.1.2.4. Elementary properties of class abstractions $ in 1165560th byte.
+    2.1.3. Class form not-free predicate $ in 1175772th byte.
+    2.1.4. Negated equality and membership $ in 1202088th byte.
+      2.1.4.1. Negated equality $ in 1202290th byte.
+      2.1.4.2. Negated membership $ in 1232889th byte.
+    2.1.5. Restricted quantification $ in 1237005th byte.
+      2.1.5.1. Restricted universal and existential quantification $ in 1237201th byte.
+      2.1.5.2. Restricted existential uniqueness and at-most-one quantifier $ in 1376800th byte.
+      2.1.5.3. Restricted class abstraction $ in 1403019th byte.
+    2.1.6. The universal class $ in 1422865th byte.
+    2.1.7. Conditional equality (experimental) $ in 1579976th byte.
+    2.1.8. Russell's Paradox $ in 1588541th byte.
+    2.1.9. Proper substitution of classes for sets $ in 1593907th byte.
+    2.1.10. Proper substitution of classes for sets into classes $ in 1652793th byte.
+    2.1.11. Define basic set operations and relations $ in 1680912th byte.
+    2.1.12. Subclasses and subsets $ in 1688913th byte.
+    2.1.13. The difference, union, and intersection of two classes $ in 1736514th byte.
+      2.1.13.1. The difference of two classes $ in 1736739th byte.
+      2.1.13.2. The union of two classes $ in 1747533th byte.
+      2.1.13.3. The intersection of two classes $ in 1760978th byte.
+      2.1.13.4. The symmetric difference of two classes $ in 1775063th byte.
+      2.1.13.5. Combinations of difference, union, and intersection of two classes $ in 1779115th byte.
+      2.1.13.6. Class abstractions with difference, union, and intersection of two classes $ in 1795874th byte.
+      2.1.13.7. Restricted uniqueness with difference, union, and intersection $ in 1803184th byte.
+    2.1.14. The empty set $ in 1807557th byte.
+    2.1.15. The conditional operator for classes $ in 1898093th byte.
+    2.1.16. The weak deduction theorem for set theory $ in 1921016th byte.
+    2.1.17. Power classes $ in 1935081th byte.
+    2.1.18. Unordered and ordered pairs $ in 1942912th byte.
+    2.1.19. The union of a class $ in 2064956th byte.
+    2.1.20. The intersection of a class $ in 2082511th byte.
+    2.1.21. Indexed union and intersection $ in 2102261th byte.
+    2.1.22. Disjointness $ in 2156432th byte.
+    2.1.23. Binary relations $ in 2180606th byte.
+    2.1.24. Ordered-pair class abstractions (class builders) $ in 2199793th byte.
+    2.1.25. Functions in maps-to notation $ in 2212587th byte.
+    2.1.26. Transitive classes $ in 2229615th byte.
+  2.2. ZF Set Theory - add the Axiom of Replacement $ in 2237962th byte.
+    2.2.1. Introduce the Axiom of Replacement $ in 2238177th byte.
+    2.2.2. Derive the Axiom of Separation $ in 2248145th byte.
+    2.2.3. Derive the Null Set Axiom $ in 2254852th byte.
+    2.2.4. Theorems requiring subset and intersection existence $ in 2260669th byte.
+    2.2.5. Theorems requiring empty set existence $ in 2275183th byte.
+  2.3. ZF Set Theory - add the Axiom of Power Sets $ in 2278830th byte.
+    2.3.1. Introduce the Axiom of Power Sets $ in 2279044th byte.
+    2.3.2. Derive the Axiom of Pairing $ in 2315548th byte.
+    2.3.3. Ordered pair theorem $ in 2342548th byte.
+    2.3.4. Ordered-pair class abstractions (cont.) $ in 2381749th byte.
+    2.3.5. Power class of union and intersection $ in 2407220th byte.
+    2.3.6. The identity relation $ in 2409589th byte.
+    2.3.7. The membership relation (or epsilon relation) $ in 2413416th byte.
+    2.3.8. Partial and total orderings $ in 2416216th byte.
+    2.3.9. Founded and well-ordering relations $ in 2438325th byte.
+    2.3.10. Relations $ in 2461948th byte.
+    2.3.11. The Predecessor Class $ in 2742312th byte.
+    2.3.12. Well-founded induction (variant) $ in 2759966th byte.
+    2.3.13. Well-ordered induction $ in 2766736th byte.
+    2.3.14. Ordinals $ in 2777476th byte.
+    2.3.15. Definite description binder (inverted iota) $ in 2825785th byte.
+    2.3.16. Functions $ in 2848130th byte.
+    2.3.17. Cantor's Theorem $ in 3313288th byte.
+    2.3.18. Restricted iota (description binder) $ in 3315615th byte.
+    2.3.19. Operations $ in 3340590th byte.
+      2.3.19.1. Variable-to-class conversion for operations $ in 3449908th byte.
+    2.3.20. Maps-to notation $ in 3477874th byte.
+    2.3.21. Function operation $ in 3495601th byte.
+    2.3.22. Proper subset relation $ in 3527938th byte.
+  2.4. ZF Set Theory - add the Axiom of Union $ in 3534817th byte.
+    2.4.1. Introduce the Axiom of Union $ in 3535026th byte.
+    2.4.2. Ordinals (continued) $ in 3553252th byte.
+    2.4.3. Transfinite induction $ in 3594031th byte.
+    2.4.4. The natural numbers (i.e., finite ordinals) $ in 3610924th byte.
+    2.4.5. Peano's postulates $ in 3622150th byte.
+    2.4.6. Finite induction (for finite ordinals) $ in 3628012th byte.
+    2.4.7. Relations and functions (cont.) $ in 3635563th byte.
+    2.4.8. First and second members of an ordered pair $ in 3685977th byte.
+    2.4.9. Induction on Cartesian products $ in 3817628th byte.
+    2.4.10. Ordering on Cartesian products $ in 3823457th byte.
+    2.4.11. Ordering Ordinal Sequences $ in 3873581th byte.
+    2.4.12. The support of functions $ in 3885372th byte.
+    2.4.13. Special maps-to operations $ in 3927179th byte.
+    2.4.14. Function transposition $ in 3940457th byte.
+    2.4.15. Curry and uncurry $ in 3961937th byte.
+    2.4.16. Undefined values $ in 3967486th byte.
+    2.4.17. Well-founded recursion $ in 3969909th byte.
+    2.4.18. Well-ordered recursion $ in 4006964th byte.
+    2.4.19. Functions on ordinals; strictly monotone ordinal functions $ in 4048212th byte.
+    2.4.20. "Strong" transfinite recursion $ in 4073851th byte.
+    2.4.21. Recursive definition generator $ in 4108627th byte.
+    2.4.22. Finite recursion $ in 4124782th byte.
+    2.4.23. Ordinal arithmetic $ in 4146341th byte.
+    2.4.24. Natural number arithmetic $ in 4266173th byte.
+    2.4.25. Natural addition $ in 4319243th byte.
+    2.4.26. Equivalence relations and classes $ in 4361391th byte.
+    2.4.27. The mapping operation $ in 4438664th byte.
+    2.4.28. Infinite Cartesian products $ in 4476336th byte.
+    2.4.29. Equinumerosity $ in 4507398th byte.
+    2.4.30. Schroeder-Bernstein Theorem $ in 4593759th byte.
+    2.4.31. Equinumerosity (cont.) $ in 4626402th byte.
+    2.4.32. Finite sets $ in 4650405th byte.
+    2.4.33. Pigeonhole Principle $ in 4698064th byte.
+    2.4.34. Finite sets (cont.) $ in 4720945th byte.
+    2.4.35. Finitely supported functions $ in 4839167th byte.
+    2.4.36. Finite intersections $ in 4869333th byte.
+    2.4.37. Hall's marriage theorem $ in 4892823th byte.
+    2.4.38. Supremum and infimum $ in 4907939th byte.
+    2.4.39. Ordinal isomorphism, Hartogs's theorem $ in 4952118th byte.
+    2.4.40. Hartogs function $ in 5008385th byte.
+    2.4.41. Weak dominance $ in 5012209th byte.
+  2.5. ZF Set Theory - add the Axiom of Regularity $ in 5037429th byte.
+    2.5.1. Introduce the Axiom of Regularity $ in 5037643th byte.
+    2.5.2. Axiom of Infinity equivalents $ in 5052414th byte.
+  2.6. ZF Set Theory - add the Axiom of Infinity $ in 5070308th byte.
+    2.6.1. Introduce the Axiom of Infinity $ in 5070520th byte.
+    2.6.2. Existence of omega (the set of natural numbers) $ in 5075385th byte.
+    2.6.3. Cantor normal form $ in 5086938th byte.
+    2.6.4. Transitive closure of a relation $ in 5193001th byte.
+    2.6.5. Transitive closure $ in 5231531th byte.
+    2.6.6. Well-Founded Induction $ in 5246007th byte.
+    2.6.7. Well-Founded Recursion $ in 5253068th byte.
+    2.6.8. Rank $ in 5261061th byte.
+    2.6.9. Scott's trick; collection principle; Hilbert's epsilon $ in 5345775th byte.
+    2.6.10. Disjoint union $ in 5360515th byte.
+    2.6.11. Cardinal numbers $ in 5384905th byte.
+    2.6.12. Axiom of Choice equivalents $ in 5537542th byte.
+    2.6.13. Cardinal number arithmetic $ in 5604313th byte.
+    2.6.14. The Ackermann bijection $ in 5647604th byte.
+    2.6.15. Cofinality (without Axiom of Choice) $ in 5678632th byte.
+    2.6.16. Eight inequivalent definitions of finite set $ in 5728493th byte.
+    2.6.17. Hereditarily size-limited sets without Choice $ in 5860380th byte.
+3. ZFC (ZERMELO-FRAENKEL WITH CHOICE) SET THEORY $ in 5880552th byte.
+  3.1. ZFC Set Theory - add Countable Choice and Dependent Choice $ in 5881678th byte.
+    3.1.1. Introduce the Axiom of Countable Choice $ in 5881907th byte.
+    3.1.2. Introduce the Axiom of Dependent Choice $ in 5898219th byte.
+  3.2. ZFC Set Theory - add the Axiom of Choice $ in 5938792th byte.
+    3.2.1. Introduce the Axiom of Choice $ in 5939003th byte.
+    3.2.2. AC equivalents:  well-ordering, Zorn's lemma $ in 5965230th byte.
+    3.2.3. Cardinal number theorems using Axiom of Choice $ in 6028176th byte.
+    3.2.4. Cardinal number arithmetic using Axiom of Choice $ in 6049588th byte.
+    3.2.5. Cofinality using the Axiom of Choice $ in 6056519th byte.
+  3.3. ZFC Axioms with no distinct variable requirements $ in 6071417th byte.
+  3.4. The Generalized Continuum Hypothesis $ in 6104829th byte.
+    3.4.1. Sets satisfying the Generalized Continuum Hypothesis $ in 6105036th byte.
+    3.4.2. Derivation of the Axiom of Choice $ in 6206037th byte.
+4. TG (TARSKI-GROTHENDIECK) SET THEORY $ in 6210572th byte.
+  4.1. Inaccessibles $ in 6211574th byte.
+    4.1.1. Weakly and strongly inaccessible cardinals $ in 6211758th byte.
+    4.1.2. Weak universes $ in 6223182th byte.
+    4.1.3. Tarski classes $ in 6251031th byte.
+    4.1.4. Grothendieck universes $ in 6288746th byte.
+  4.2. ZFC Set Theory plus the Tarski-Grothendieck Axiom $ in 6314936th byte.
+    4.2.1. Introduce the Tarski-Grothendieck Axiom $ in 6315156th byte.
+    4.2.2. Derive the Power Set, Infinity and Choice Axioms $ in 6317649th byte.
+    4.2.3. Tarski map function $ in 6329589th byte.
+5. REAL AND COMPLEX NUMBERS $ in 6333075th byte.
+  5.1. Construction and axiomatization of real and complex numbers $ in 6333617th byte.
+    5.1.1. Dedekind-cut construction of real and complex numbers $ in 6333847th byte.
+    5.1.2. Final derivation of real and complex number postulates $ in 6561351th byte.
+    5.1.3. Real and complex number postulates restated as axioms $ in 6590390th byte.
+  5.2. Derive the basic properties from the field axioms $ in 6601450th byte.
+    5.2.1. Some deductions from the field axioms for complex numbers $ in 6601670th byte.
+    5.2.2. Infinity and the extended real number system $ in 6616851th byte.
+    5.2.3. Restate the ordering postulates with extended real "less than" $ in 6628981th byte.
+    5.2.4. Ordering on reals $ in 6632768th byte.
+    5.2.5. Initial properties of the complex numbers $ in 6662976th byte.
+  5.3. Real and complex numbers - basic operations $ in 6688402th byte.
+    5.3.1. Addition $ in 6688616th byte.
+    5.3.2. Subtraction $ in 6693518th byte.
+    5.3.3. Multiplication $ in 6761872th byte.
+    5.3.4. Ordering on reals (cont.) $ in 6776618th byte.
+    5.3.5. Reciprocals $ in 6838594th byte.
+    5.3.6. Division $ in 6853965th byte.
+    5.3.7. Ordering on reals (cont.) $ in 6924717th byte.
+    5.3.8. Completeness Axiom and Suprema $ in 6981559th byte.
+    5.3.9. Imaginary and complex number properties $ in 7025745th byte.
+    5.3.10. Function operation analogue theorems $ in 7032394th byte.
+  5.4. Integer sets $ in 7035155th byte.
+    5.4.1. Positive integers (as a subset of complex numbers) $ in 7035338th byte.
+    5.4.2. Principle of mathematical induction $ in 7043582th byte.
+    5.4.3. Decimal representation of numbers $ in 7064042th byte.
+    5.4.4. Some properties of specific numbers $ in 7075640th byte.
+    5.4.5. Simple number properties $ in 7098299th byte.
+    5.4.6. The Archimedean property $ in 7113450th byte.
+    5.4.7. Nonnegative integers (as a subset of complex numbers) $ in 7117030th byte.
+    5.4.8. Extended nonnegative integers $ in 7142064th byte.
+    5.4.9. Integers (as a subset of complex numbers) $ in 7146516th byte.
+    5.4.10. Decimal arithmetic $ in 7208896th byte.
+    5.4.11. Upper sets of integers $ in 7258738th byte.
+    5.4.12. Well-ordering principle for bounded-below sets of integers $ in 7314547th byte.
+    5.4.13. Rational numbers (as a subset of complex numbers) $ in 7321092th byte.
+    5.4.14. Existence of the set of complex numbers $ in 7334403th byte.
+  5.5. Order sets $ in 7349784th byte.
+    5.5.1. Positive reals (as a subset of complex numbers) $ in 7349965th byte.
+    5.5.2. Infinity and the extended real number system (cont.) $ in 7389518th byte.
+    5.5.3. Supremum and infimum on the extended reals $ in 7512696th byte.
+    5.5.4. Real number intervals $ in 7547193th byte.
+    5.5.5. Finite intervals of integers $ in 7637912th byte.
+    5.5.6. Finite intervals of nonnegative integers $ in 7701136th byte.
+    5.5.7. Half-open integer ranges $ in 7725895th byte.
+  5.6. Elementary integer functions $ in 7804199th byte.
+    5.6.1. The floor and ceiling functions $ in 7804398th byte.
+    5.6.2. The modulo (remainder) operation $ in 7851218th byte.
+    5.6.3. Miscellaneous theorems about integers $ in 7915038th byte.
+    5.6.4. Strong induction over upper sets of integers $ in 7951155th byte.
+    5.6.5. Finitely supported functions over the nonnegative integers $ in 7953189th byte.
+    5.6.6. The infinite sequence builder "seq" - extension $ in 7966878th byte.
+    5.6.7. Integer powers $ in 8051106th byte.
+    5.6.8. Ordered pair theorem for nonnegative integers $ in 8180194th byte.
+    5.6.9. Factorial function $ in 8185371th byte.
+    5.6.10. The binomial coefficient operation $ in 8218680th byte.
+    5.6.11. The ` # ` (set size) function $ in 8244268th byte.
+      5.6.11.1. Proper unordered pairs and triples (sets of size 2 and 3) $ in 8373060th byte.
+      5.6.11.2. Functions with a domain containing at least two different elements $ in 8394703th byte.
+      5.6.11.3. Finite induction on the size of the first component of a binary relation $ in 8398331th byte.
+  5.7. Words over a set $ in 8414245th byte.
+    5.7.1. Definitions and basic theorems $ in 8419838th byte.
+    5.7.2. Last symbol of a word $ in 8442827th byte.
+    5.7.3. Concatenations of words $ in 8446678th byte.
+    5.7.4. Singleton words $ in 8471616th byte.
+    5.7.5. Concatenations with singleton words $ in 8479036th byte.
+    5.7.6. Subwords/substrings $ in 8493061th byte.
+    5.7.7. Prefixes of a word $ in 8524361th byte.
+    5.7.8. Subwords of subwords $ in 8549129th byte.
+    5.7.9. Subwords and concatenations $ in 8560078th byte.
+    5.7.10. Subwords of concatenations $ in 8579560th byte.
+    5.7.11. Splicing words (substring replacement) $ in 8623413th byte.
+    5.7.12. Reversing words $ in 8633602th byte.
+    5.7.13. Repeated symbol words $ in 8642418th byte.
+    5.7.14. Cyclical shifts of words $ in 8660056th byte.
+    5.7.15. Mapping words by a function $ in 8717895th byte.
+    5.7.16. Longer string literals $ in 8728217th byte.
+  5.8. Reflexive and transitive closures of relations $ in 8795773th byte.
+    5.8.1. The reflexive and transitive properties of relations $ in 8797036th byte.
+    5.8.2. Basic properties of closures $ in 8802984th byte.
+    5.8.3. Definitions and basic properties of transitive closures $ in 8804126th byte.
+    5.8.4. Exponentiation of relations $ in 8820198th byte.
+    5.8.5. Reflexive-transitive closure as an indexed union $ in 8848355th byte.
+    5.8.6. Principle of transitive induction. $ in 8859469th byte.
+  5.9. Elementary real and complex functions $ in 8867451th byte.
+    5.9.1. The "shift" operation $ in 8867659th byte.
+    5.9.2. Signum (sgn or sign) function $ in 8880779th byte.
+    5.9.3. Real and imaginary parts; conjugate $ in 8884456th byte.
+    5.9.4. Square root; absolute value $ in 8942247th byte.
+  5.10. Elementary limits and convergence $ in 9084335th byte.
+    5.10.1. Superior limit (lim sup) $ in 9084539th byte.
+    5.10.2. Limits $ in 9100518th byte.
+    5.10.3. Finite and infinite sums $ in 9332962th byte.
+    5.10.4. The binomial theorem $ in 9511258th byte.
+    5.10.5. The inclusion/exclusion principle $ in 9522684th byte.
+    5.10.6. Infinite sums (cont.) $ in 9534572th byte.
+    5.10.7. Miscellaneous converging and diverging sequences $ in 9564690th byte.
+    5.10.8. Arithmetic series $ in 9576217th byte.
+    5.10.9. Geometric series $ in 9582317th byte.
+    5.10.10. Ratio test for infinite series convergence $ in 9615356th byte.
+    5.10.11. Mertens' theorem $ in 9620396th byte.
+    5.10.12. Finite and infinite products $ in 9641985th byte.
+      5.10.12.1. Product sequences $ in 9642184th byte.
+      5.10.12.2. Non-trivial convergence $ in 9654959th byte.
+      5.10.12.3. Complex products $ in 9665696th byte.
+      5.10.12.4. Finite products $ in 9704989th byte.
+      5.10.12.5. Infinite products $ in 9784047th byte.
+    5.10.13. Falling and Rising Factorial $ in 9792444th byte.
+    5.10.14. Bernoulli polynomials and sums of k-th powers $ in 9823115th byte.
+  5.11. Elementary trigonometry $ in 9857125th byte.
+    5.11.1. The exponential, sine, and cosine functions $ in 9857319th byte.
+      5.11.1.1. The circle constant (tau = 2 pi) $ in 9977107th byte.
+    5.11.2. _e is irrational $ in 9978156th byte.
+  5.12. Cardinality of real and complex number subsets $ in 9984181th byte.
+    5.12.1. Countability of integers and rationals $ in 9984398th byte.
+    5.12.2. The reals are uncountable $ in 9986933th byte.
+6. ELEMENTARY NUMBER THEORY $ in 10030362th byte.
+  6.1. Elementary properties of divisibility $ in 10030699th byte.
+    6.1.1. Irrationality of square root of 2 $ in 10030907th byte.
+    6.1.2. Some Number sets are chains of proper subsets $ in 10035848th byte.
+    6.1.3. The divides relation $ in 10037807th byte.
+    6.1.4. Even and odd numbers $ in 10098235th byte.
+    6.1.5. The division algorithm $ in 10146954th byte.
+    6.1.6. Bit sequences $ in 10175480th byte.
+    6.1.7. The greatest common divisor operator $ in 10276975th byte.
+    6.1.8. B&eacute;zout's identity $ in 10305282th byte.
+    6.1.9. Algorithms $ in 10339534th byte.
+    6.1.10. Euclid's Algorithm $ in 10354181th byte.
+    6.1.11. The least common multiple $ in 10361867th byte.
+    6.1.12. Coprimality and Euclid's lemma $ in 10427955th byte.
+    6.1.13. Cancellability of congruences $ in 10454498th byte.
+  6.2. Elementary prime number theory $ in 10470277th byte.
+    6.2.1. Elementary properties $ in 10470478th byte.
+    6.2.2. Coprimality and Euclid's lemma (cont.) $ in 10505013th byte.
+    6.2.3. Properties of the canonical representation of a rational $ in 10524748th byte.
+    6.2.4. Euler's theorem $ in 10539810th byte.
+    6.2.5. Arithmetic modulo a prime number $ in 10593750th byte.
+    6.2.6. Pythagorean Triples $ in 10608016th byte.
+    6.2.7. The prime count function $ in 10651948th byte.
+    6.2.8. Pocklington's theorem $ in 10745446th byte.
+    6.2.9. Infinite primes theorem $ in 10761049th byte.
+    6.2.10. Sum of prime reciprocals $ in 10769566th byte.
+    6.2.11. Fundamental theorem of arithmetic $ in 10804358th byte.
+    6.2.12. Lagrange's four-square theorem $ in 10811437th byte.
+    6.2.13. Van der Waerden's theorem $ in 10870246th byte.
+    6.2.14. Ramsey's theorem $ in 10939358th byte.
+    6.2.15. Primorial function $ in 10990190th byte.
+    6.2.16. Prime gaps $ in 11004410th byte.
+    6.2.17. Decimal arithmetic (cont.) $ in 11027308th byte.
+    6.2.18. Cyclical shifts of words (cont.) $ in 11048120th byte.
+    6.2.19. Specific prime numbers $ in 11064346th byte.
+    6.2.20. Very large primes $ in 11091289th byte.
+7. BASIC STRUCTURES $ in 11145140th byte.
+  7.1. Extensible structures $ in 11145327th byte.
+    7.1.1. Basic definitions $ in 11145519th byte.
+      7.1.1.1. Extensible structures as structures with components $ in 11151407th byte.
+      7.1.1.2. Substitution of components $ in 11162634th byte.
+      7.1.1.3. Slots $ in 11177459th byte.
+      7.1.1.4. Structure component indices $ in 11185566th byte.
+      7.1.1.5. Base sets $ in 11199739th byte.
+      7.1.1.6. Base set restrictions $ in 11211311th byte.
+    7.1.2. Slot definitions $ in 11228201th byte.
+    7.1.3. Definition of the structure product $ in 11287641th byte.
+    7.1.4. Definition of the structure quotient $ in 11360940th byte.
+  7.2. Moore spaces $ in 11443742th byte.
+    7.2.1. Moore closures $ in 11458114th byte.
+    7.2.2. Independent sets in a Moore system $ in 11470812th byte.
+    7.2.3. Algebraic closure systems $ in 11500935th byte.
+8. BASIC CATEGORY THEORY $ in 11516204th byte.
+  8.1. Categories $ in 11516396th byte.
+    8.1.1. Categories $ in 11516577th byte.
+    8.1.2. Opposite category $ in 11572078th byte.
+    8.1.3. Monomorphisms and epimorphisms $ in 11586600th byte.
+    8.1.4. Sections, inverses, isomorphisms $ in 11599127th byte.
+    8.1.5. Isomorphic objects $ in 11637606th byte.
+    8.1.6. Subcategories $ in 11644769th byte.
+    8.1.7. Functors $ in 11686901th byte.
+    8.1.8. Full & faithful functors $ in 11753838th byte.
+    8.1.9. Natural transformations and the functor category $ in 11788335th byte.
+    8.1.10. Initial, terminal and zero objects of a category $ in 11843709th byte.
+  8.2. Arrows (disjointified hom-sets) $ in 11872553th byte.
+    8.2.1. Identity and composition for arrows $ in 11886744th byte.
+  8.3. Examples of categories $ in 11900820th byte.
+    8.3.1. The category of sets $ in 11901013th byte.
+    8.3.2. The category of categories $ in 11927381th byte.
+    8.3.3. The category of extensible structures $ in 11961111th byte.
+  8.4. Categorical constructions $ in 12013732th byte.
+    8.4.1. Product of categories $ in 12013928th byte.
+    8.4.2. Functor evaluation $ in 12075741th byte.
+    8.4.3. Hom functor $ in 12149958th byte.
+9. BASIC ORDER THEORY $ in 12230186th byte.
+  9.1. Dual of an order structure $ in 12230375th byte.
+  9.2. Preordered sets and directed sets $ in 12233734th byte.
+  9.3. Partially ordered sets (posets) $ in 12244363th byte.
+  9.4. Totally ordered sets (tosets) $ in 12324196th byte.
+  9.5. Lattices $ in 12330983th byte.
+    9.5.1. Lattices $ in 12331162th byte.
+    9.5.2. Complete lattices $ in 12370073th byte.
+    9.5.3. Distributive lattices $ in 12384799th byte.
+    9.5.4. Subset order structures $ in 12389282th byte.
+  9.6. Posets, directed sets, and lattices as relations $ in 12426833th byte.
+    9.6.1. Posets and lattices as relations $ in 12427052th byte.
+    9.6.2. Directed sets, nets $ in 12452034th byte.
+10. BASIC ALGEBRAIC STRUCTURES $ in 12458554th byte.
+  10.1. Monoids $ in 12458751th byte.
+    10.1.1. Magmas $ in 12458929th byte.
+    10.1.2. Identity elements $ in 12474155th byte.
+    10.1.3. Iterated sums in a magma $ in 12489381th byte.
+    10.1.4. Semigroups $ in 12514567th byte.
+    10.1.5. Definition and basic properties of monoids $ in 12529597th byte.
+    10.1.6. Monoid homomorphisms and submonoids $ in 12569585th byte.
+    10.1.7. Iterated sums in a monoid $ in 12620502th byte.
+    10.1.8. Free monoids $ in 12636219th byte.
+      10.1.8.1. Monoid of endofunctions $ in 12652954th byte.
+    10.1.9. Examples and counterexamples for magmas, semigroups and monoids $ in 12692105th byte.
+  10.2. Groups $ in 12709243th byte.
+    10.2.1. Definition and basic properties $ in 12709420th byte.
+    10.2.2. Group multiple operation $ in 12813775th byte.
+    10.2.3. Subgroups and Quotient groups $ in 12866965th byte.
+    10.2.4. Cyclic monoids and groups $ in 12931939th byte.
+    10.2.5. Elementary theory of group homomorphisms $ in 12944927th byte.
+    10.2.6. Isomorphisms of groups $ in 12984700th byte.
+    10.2.7. Group actions $ in 12994259th byte.
+    10.2.8. Centralizers and centers $ in 13024835th byte.
+    10.2.9. The opposite group $ in 13044905th byte.
+    10.2.10. Symmetric groups $ in 13059369th byte.
+      10.2.10.1. Definition and basic properties $ in 13059556th byte.
+      10.2.10.2. Cayley's theorem $ in 13099479th byte.
+      10.2.10.3. Permutations fixing one element $ in 13103601th byte.
+      10.2.10.4. Transpositions in the symmetric group $ in 13132312th byte.
+      10.2.10.5. The sign of a permutation $ in 13179788th byte.
+    10.2.11. p-Groups and Sylow groups; Sylow's theorems $ in 13224987th byte.
+    10.2.12. Direct products $ in 13371915th byte.
+      10.2.12.1. Direct products (extension) $ in 13389031th byte.
+    10.2.13. Free groups $ in 13429976th byte.
+    10.2.14. Abelian groups $ in 13562195th byte.
+      10.2.14.1. Definition and basic properties $ in 13562380th byte.
+      10.2.14.2. Cyclic groups $ in 13647907th byte.
+      10.2.14.3. Group sum operation $ in 13670759th byte.
+      10.2.14.4. Group sums over (ranges of) integers $ in 13788251th byte.
+      10.2.14.5. Internal direct products $ in 13806877th byte.
+      10.2.14.6. The Fundamental Theorem of Abelian Groups $ in 13912936th byte.
+    10.2.15. Simple groups $ in 13993538th byte.
+      10.2.15.1. Definition and basic properties $ in 13993722th byte.
+      10.2.15.2. Classification of abelian simple groups $ in 14000448th byte.
+  10.3. Rings $ in 14015186th byte.
+    10.3.1. Multiplicative Group $ in 14015362th byte.
+    10.3.2. Ring unity (multiplicative identity) $ in 14024322th byte.
+    10.3.3. Semirings $ in 14030305th byte.
+      10.3.3.1. The binomial theorem for semirings $ in 14064216th byte.
+    10.3.4. Definition and basic properties of unital rings $ in 14081291th byte.
+    10.3.5. Opposite ring $ in 14164637th byte.
+    10.3.6. Divisibility $ in 14175300th byte.
+    10.3.7. Ring primes $ in 14225670th byte.
+    10.3.8. Ring homomorphisms $ in 14226569th byte.
+    10.3.9. Nonzero rings and zero rings $ in 14256323th byte.
+    10.3.10. Local rings $ in 14265917th byte.
+    10.3.11. Subrings of a ring $ in 14270608th byte.
+  10.4. Division rings and fields $ in 14305067th byte.
+    10.4.1. Definition and basic properties $ in 14305263th byte.
+    10.4.2. Sub-division rings $ in 14338492th byte.
+    10.4.3. Absolute value (abstract algebra) $ in 14358830th byte.
+    10.4.4. Star rings $ in 14385034th byte.
+  10.5. Left modules $ in 14399369th byte.
+    10.5.1. Definition and basic properties $ in 14399552th byte.
+    10.5.2. Subspaces and spans in a left module $ in 14476782th byte.
+    10.5.3. Homomorphisms and isomorphisms of left modules $ in 14542414th byte.
+    10.5.4. Subspace sum; bases for a left module $ in 14591999th byte.
+  10.6. Vector spaces $ in 14623141th byte.
+    10.6.1. Definition and basic properties $ in 14623325th byte.
+  10.7. Ideals $ in 14714416th byte.
+    10.7.1. The subring algebra; ideals $ in 14714593th byte.
+    10.7.2. Two-sided ideals and quotient rings $ in 14756917th byte.
+    10.7.3. Principal ideal rings.  Divisibility in the integers $ in 14773313th byte.
+    10.7.4. Left regular elements.  More kinds of rings $ in 14781822th byte.
+  10.8. The complex numbers as an algebraic extensible structure $ in 14803995th byte.
+    10.8.1. Definition and basic properties $ in 14804222th byte.
+    10.8.2. Ring of integers $ in 14865500th byte.
+    10.8.3. Algebraic constructions based on the complex numbers $ in 14890095th byte.
+    10.8.4. Signs as subgroup of the complex numbers $ in 14959780th byte.
+    10.8.5. Embedding of permutation signs into a ring $ in 14967845th byte.
+    10.8.6. The ordered field of real numbers $ in 14990622th byte.
+  10.9. Generalized pre-Hilbert and Hilbert spaces $ in 14998520th byte.
+    10.9.1. Definition and basic properties $ in 14998733th byte.
+    10.9.2. Orthocomplements and closed subspaces $ in 15035016th byte.
+    10.9.3. Orthogonal projection and orthonormal bases $ in 15063702th byte.
+11. BASIC LINEAR ALGEBRA $ in 15087520th byte.
+  11.1. Vectors and free modules $ in 15089435th byte.
+    11.1.1. Direct sum of left modules $ in 15089630th byte.
+    11.1.2. Free modules $ in 15107379th byte.
+    11.1.3. Standard basis (unit vectors) $ in 15149330th byte.
+    11.1.4. Independent sets and families $ in 15185979th byte.
+    11.1.5. Characterization of free modules $ in 15218306th byte.
+  11.2. Associative algebras $ in 15235809th byte.
+    11.2.1. Definition and basic properties $ in 15236000th byte.
+  11.3. Abstract multivariate polynomials $ in 15279821th byte.
+    11.3.1. Definition and basic properties $ in 15280025th byte.
+    11.3.2. Polynomial evaluation $ in 15506511th byte.
+    11.3.3. Additional definitions for (multivariate) polynomials $ in 15575382th byte.
+    11.3.4. Univariate polynomials $ in 15609053th byte.
+    11.3.5. Univariate polynomial evaluation $ in 15729966th byte.
+  11.4. Matrices $ in 15793888th byte.
+    11.4.1. The matrix multiplication $ in 15797039th byte.
+    11.4.2. Square matrices $ in 15830778th byte.
+    11.4.3. The matrix algebra $ in 15854469th byte.
+    11.4.4. Matrices of dimension 0 and 1 $ in 15886443th byte.
+    11.4.5. The subalgebras of diagonal and scalar matrices $ in 15908569th byte.
+    11.4.6. Multiplication of a matrix with a "column vector" $ in 15969176th byte.
+    11.4.7. Replacement functions for a square matrix $ in 15990028th byte.
+    11.4.8. Submatrices $ in 16011579th byte.
+  11.5. The determinant $ in 16018538th byte.
+    11.5.1. Definition and basic properties $ in 16018724th byte.
+    11.5.2. Determinants of 2 x 2 -matrices $ in 16130480th byte.
+    11.5.3. The matrix adjugate/adjunct $ in 16142378th byte.
+    11.5.4. Laplace expansion of determinants (special case) $ in 16174621th byte.
+    11.5.5. Inverse matrix $ in 16209618th byte.
+    11.5.6. Cramer's rule $ in 16215197th byte.
+  11.6. Polynomial matrices $ in 16239009th byte.
+    11.6.1. Basic properties $ in 16239997th byte.
+    11.6.2. Constant polynomial matrices $ in 16248298th byte.
+    11.6.3. Collecting coefficients of polynomial matrices $ in 16313414th byte.
+    11.6.4. Ring isomorphism between polynomial matrices and polynomials over matrices $ in 16378304th byte.
+  11.7. The characteristic polynomial $ in 16446869th byte.
+    11.7.1. Definition and basic properties $ in 16447603th byte.
+    11.7.2. The characteristic factor function G $ in 16484776th byte.
+    11.7.3. The Cayley-Hamilton theorem $ in 16537522th byte.
+12. BASIC TOPOLOGY $ in 16625946th byte.
+  12.1. Topology $ in 16626131th byte.
+    12.1.1. Topological spaces $ in 16626310th byte.
+      12.1.1.1. Topologies $ in 16627252th byte.
+      12.1.1.2. Topologies on sets $ in 16636201th byte.
+      12.1.1.3. Topological spaces $ in 16644418th byte.
+    12.1.2. Topological bases $ in 16650172th byte.
+    12.1.3. Examples of topologies $ in 16680250th byte.
+    12.1.4. Closure and interior $ in 16701197th byte.
+    12.1.5. Neighborhoods $ in 16750690th byte.
+    12.1.6. Limit points and perfect sets $ in 16781888th byte.
+    12.1.7. Subspace topologies $ in 16793147th byte.
+    12.1.8. Order topology $ in 16823581th byte.
+    12.1.9. Limits and continuity in topological spaces $ in 16862822th byte.
+    12.1.10. Separated spaces: T0, T1, T2 (Hausdorff) ... $ in 16944441th byte.
+    12.1.11. Compactness $ in 16998461th byte.
+    12.1.12. Bolzano-Weierstrass theorem $ in 17041241th byte.
+    12.1.13. Connectedness $ in 17044187th byte.
+    12.1.14. First- and second-countability $ in 17069673th byte.
+    12.1.15. Local topological properties $ in 17113683th byte.
+    12.1.16. Refinements $ in 17148754th byte.
+    12.1.17. Compactly generated spaces $ in 17174639th byte.
+    12.1.18. Product topologies $ in 17203625th byte.
+    12.1.19. Continuous function-builders $ in 17391971th byte.
+    12.1.20. Quotient maps and quotient topology $ in 17436028th byte.
+    12.1.21. Homeomorphisms $ in 17498874th byte.
+  12.2. Filters and filter bases $ in 17569299th byte.
+    12.2.1. Filter bases $ in 17569494th byte.
+    12.2.2. Filters $ in 17587611th byte.
+    12.2.3. Ultrafilters $ in 17639073th byte.
+    12.2.4. Filter limits $ in 17674387th byte.
+    12.2.5. Extension by continuity $ in 17850019th byte.
+    12.2.6. Topological groups $ in 17868573th byte.
+    12.2.7. Infinite group sum on topological groups $ in 17953608th byte.
+    12.2.8. Topological rings, fields, vector spaces $ in 18011336th byte.
+  12.3. Uniform Structures and Spaces $ in 18030273th byte.
+    12.3.1. Uniform structures $ in 18030473th byte.
+    12.3.2. The topology induced by an uniform structure $ in 18057381th byte.
+    12.3.3. Uniform Spaces $ in 18090438th byte.
+    12.3.4. Uniform continuity $ in 18103074th byte.
+    12.3.5. Cauchy filters in uniform spaces $ in 18118734th byte.
+    12.3.6. Complete uniform spaces $ in 18131796th byte.
+  12.4. Metric spaces $ in 18140411th byte.
+    12.4.1. Pseudometric spaces $ in 18140595th byte.
+    12.4.2. Basic metric space properties $ in 18150325th byte.
+    12.4.3. Metric space balls $ in 18220057th byte.
+    12.4.4. Open sets of a metric space $ in 18266918th byte.
+    12.4.5. Continuity in metric spaces $ in 18365834th byte.
+    12.4.6. The uniform structure generated by a metric $ in 18379543th byte.
+    12.4.7. Examples of metric spaces $ in 18418582th byte.
+    12.4.8. Normed algebraic structures $ in 18427688th byte.
+    12.4.9. Normed space homomorphisms (bounded linear operators) $ in 18536049th byte.
+    12.4.10. Topology on the reals $ in 18577831th byte.
+    12.4.11. Topological definitions using the reals $ in 18714599th byte.
+    12.4.12. Path homotopy $ in 18833216th byte.
+    12.4.13. The fundamental group $ in 18867869th byte.
+  12.5. Metric subcomplex vector spaces $ in 18954810th byte.
+    12.5.1. Subcomplex modules $ in 18955012th byte.
+    12.5.2. Subcomplex vector spaces $ in 19007047th byte.
+    12.5.3. Normed subcomplex vector spaces $ in 19027418th byte.
+    12.5.4. Subcomplex pre-Hilbert spaces $ in 19043770th byte.
+    12.5.5. Neighborhoods and closure $ in 19133365th byte.
+    12.5.6. Convergence and completeness $ in 19144806th byte.
+    12.5.7. Baire's Category Theorem $ in 19241108th byte.
+    12.5.8. Banach spaces and subcomplex Hilbert spaces $ in 19263416th byte.
+      12.5.8.1. The complete ordered field of the real numbers $ in 19291706th byte.
+    12.5.9. Euclidean spaces $ in 19293528th byte.
+    12.5.10. Minimizing Vector Theorem $ in 19339001th byte.
+    12.5.11. Projection Theorem $ in 19371326th byte.
+13. BASIC REAL AND COMPLEX ANALYSIS $ in 19383775th byte.
+  13.1. Continuity $ in 19383977th byte.
+    13.1.1. Intermediate value theorem $ in 19386714th byte.
+  13.2. Integrals $ in 19414075th byte.
+    13.2.1. Lebesgue measure $ in 19414255th byte.
+    13.2.2. Lebesgue integration $ in 19718510th byte.
+      13.2.2.1. Lesbesgue integral $ in 19718701th byte.
+      13.2.2.2. Lesbesgue directed integral $ in 20126682th byte.
+  13.3. Derivatives $ in 20139371th byte.
+    13.3.1. Real and complex differentiation $ in 20139553th byte.
+      13.3.1.1. Derivatives of functions of one complex or real variable $ in 20139756th byte.
+      13.3.1.2. Results on real differentiation $ in 20320703th byte.
+14. BASIC REAL AND COMPLEX FUNCTIONS $ in 20573513th byte.
+  14.1. Polynomials $ in 20573716th byte.
+    14.1.1. Polynomial degrees $ in 20573898th byte.
+    14.1.2. The division algorithm for univariate polynomials $ in 20651049th byte.
+    14.1.3. Elementary properties of complex polynomials $ in 20727338th byte.
+    14.1.4. The division algorithm for polynomials $ in 20872974th byte.
+    14.1.5. Algebraic numbers $ in 20929820th byte.
+    14.1.6. Liouville's approximation theorem $ in 20958917th byte.
+  14.2. Sequences and series $ in 21000419th byte.
+    14.2.1. Taylor polynomials and Taylor's theorem $ in 21000610th byte.
+    14.2.2. Uniform convergence $ in 21051019th byte.
+    14.2.3. Power series $ in 21121773th byte.
+  14.3. Basic trigonometry $ in 21211197th byte.
+    14.3.1. The exponential, sine, and cosine functions (cont.) $ in 21211386th byte.
+    14.3.2. Properties of pi = 3.14159... $ in 21220697th byte.
+    14.3.3. Mapping of the exponential function $ in 21312847th byte.
+    14.3.4. The natural logarithm on complex numbers $ in 21337315th byte.
+    14.3.5. Logarithms to an arbitrary base $ in 21548622th byte.
+    14.3.6. Theorems of Pythagoras, isosceles triangles, and intersecting chords $ in 21580843th byte.
+    14.3.7. Solutions of quadratic, cubic, and quartic equations $ in 21653237th byte.
+    14.3.8. Inverse trigonometric functions $ in 21732533th byte.
+    14.3.9. The Birthday Problem $ in 21850290th byte.
+    14.3.10. Areas in R^2 $ in 21877601th byte.
+    14.3.11. More miscellaneous converging sequences $ in 21882657th byte.
+    14.3.12. Inequality of arithmetic and geometric means $ in 21929312th byte.
+    14.3.13. Euler-Mascheroni constant $ in 21962258th byte.
+    14.3.14. Zeta function $ in 21992722th byte.
+    14.3.15. Gamma function $ in 22002133th byte.
+  14.4. Basic number theory $ in 22070406th byte.
+    14.4.1. Wilson's theorem $ in 22070596th byte.
+    14.4.2. The Fundamental Theorem of Algebra $ in 22089268th byte.
+    14.4.3. The Basel problem (&zeta;(2) = &pi;<sup>2</sup>/6) $ in 22116451th byte.
+    14.4.4. Number-theoretical functions $ in 22160143th byte.
+    14.4.5. Perfect Number Theorem $ in 22337244th byte.
+    14.4.6. Characters of Z/nZ $ in 22352394th byte.
+    14.4.7. Bertrand's postulate $ in 22423130th byte.
+    14.4.8. Quadratic residues and the Legendre symbol $ in 22489443th byte.
+    14.4.9. Gauss' Lemma $ in 22587050th byte.
+    14.4.10. Quadratic reciprocity $ in 22618377th byte.
+    14.4.11. All primes 4n+1 are the sum of two squares $ in 22718624th byte.
+    14.4.12. Chebyshev's Weak Prime Number Theorem, Dirichlet's Theorem $ in 22804881th byte.
+    14.4.13. The Prime Number Theorem $ in 23029634th byte.
+    14.4.14. Ostrowski's theorem $ in 23363043th byte.
+15. SURREAL NUMBERS $ in 23420095th byte.
+  15.1. Sign sequence representation and Alling's axioms $ in 23421065th byte.
+    15.1.1. Definitions and initial properties $ in 23421885th byte.
+    15.1.2. Ordering $ in 23452682th byte.
+    15.1.3. Birthday Function $ in 23455292th byte.
+    15.1.4. Density $ in 23456252th byte.
+    15.1.5. Full-Eta Property $ in 23471592th byte.
+  15.2. Initial consequences of Alling's axioms $ in 23608955th byte.
+    15.2.1. Ordering Theorems $ in 23609165th byte.
+    15.2.2. Birthday Theorems $ in 23618506th byte.
+  15.3. Conway cut representation $ in 23623760th byte.
+    15.3.1. Conway cuts $ in 23624327th byte.
+    15.3.2. Zero and One $ in 23659263th byte.
+    15.3.3. Cuts and Options $ in 23666964th byte.
+    15.3.4. Cofinality and coinitiality $ in 23709798th byte.
+  15.4. Induction and recursion $ in 23728463th byte.
+    15.4.1. Induction and recursion on one variable $ in 23728656th byte.
+    15.4.2. Induction and recursion on two variables $ in 23735909th byte.
+  15.5. Surreal arithmetic $ in 23746396th byte.
+    15.5.1. Addition $ in 23746584th byte.
+    15.5.2. Negation and Subtraction $ in 23822341th byte.
+    15.5.3. Multiplication $ in 23865484th byte.
+    15.5.4. Division $ in 24051967th byte.
+  15.6. Subsystems of surreals $ in 24113041th byte.
+    15.6.1. Ordinal numbers $ in 24113233th byte.
+    15.6.2. Natural numbers $ in 24118775th byte.
+16. ELEMENTARY GEOMETRY $ in 24127594th byte.
+  16.1. Definition and Tarski's Axioms of Geometry $ in 24133261th byte.
+    16.1.1. Justification for the congruence notation $ in 24184613th byte.
+  16.2. Tarskian Geometry $ in 24190153th byte.
+    16.2.1. Congruence $ in 24190341th byte.
+    16.2.2. Betweenness $ in 24196580th byte.
+    16.2.3. Dimension $ in 24205440th byte.
+    16.2.4. Betweenness and Congruence $ in 24212204th byte.
+    16.2.5. Congruence of a series of points $ in 24216611th byte.
+    16.2.6. Motions $ in 24245344th byte.
+    16.2.7. Colinearity $ in 24256736th byte.
+    16.2.8. Connectivity of betweenness $ in 24275566th byte.
+    16.2.9. Less-than relation in geometric congruences $ in 24292209th byte.
+    16.2.10. Rays $ in 24316337th byte.
+    16.2.11. Lines $ in 24331352th byte.
+    16.2.12. Point inversions $ in 24360484th byte.
+    16.2.13. Right angles $ in 24412898th byte.
+    16.2.14. Half-planes $ in 24486876th byte.
+    16.2.15. Midpoints and Line Mirroring $ in 24546550th byte.
+    16.2.16. Congruence of angles $ in 24596763th byte.
+    16.2.17. Angle Comparisons $ in 24646043th byte.
+    16.2.18. Congruence Theorems $ in 24668331th byte.
+    16.2.19. Equilateral triangles $ in 24681441th byte.
+  16.3. Properties of geometries $ in 24684084th byte.
+    16.3.1. Isomorphisms between geometries $ in 24684279th byte.
+  16.4. Geometry in Hilbert spaces $ in 24701338th byte.
+    16.4.1. Geometry in the complex plane $ in 24732780th byte.
+    16.4.2. Geometry in Euclidean spaces $ in 24736901th byte.
+      16.4.2.1. Definition of the Euclidean space $ in 24737100th byte.
+      16.4.2.2. Tarski's axioms for geometry for the Euclidean space $ in 24776059th byte.
+      16.4.2.3. EE^n fulfills Tarski's Axioms $ in 24951191th byte.
+17. GRAPH THEORY $ in 24973802th byte.
+  17.1. Vertices and edges $ in 24988611th byte.
+    17.1.1. The edge function extractor for extensible structures $ in 24990272th byte.
+    17.1.2. Vertices and indexed edges $ in 24993583th byte.
+      17.1.2.1. Definitions and basic properties $ in 25000013th byte.
+      17.1.2.2. The vertices and edges of a graph represented as ordered pair $ in 25002945th byte.
+      17.1.2.3. The vertices and edges of a graph represented as extensible structure $ in 25005913th byte.
+      17.1.2.4. Representations of graphs without edges $ in 25023195th byte.
+      17.1.2.5. Degenerated cases of representations of graphs $ in 25025027th byte.
+    17.1.3. Edges as range of the edge function $ in 25028248th byte.
+  17.2. Undirected graphs $ in 25032654th byte.
+    17.2.1. Undirected hypergraphs $ in 25034036th byte.
+    17.2.2. Undirected pseudographs and multigraphs $ in 25051866th byte.
+    17.2.3. Loop-free graphs $ in 25081270th byte.
+    17.2.4. Edges as subsets of vertices of graphs $ in 25085127th byte.
+    17.2.5. Undirected simple graphs $ in 25103252th byte.
+    17.2.6. Examples for graphs $ in 25170675th byte.
+    17.2.7. Subgraphs $ in 25191872th byte.
+    17.2.8. Finite undirected simple graphs $ in 25229782th byte.
+    17.2.9. Neighbors, complete graphs and universal vertices $ in 25239592th byte.
+      17.2.9.1. Neighbors $ in 25239812th byte.
+      17.2.9.2. Universal vertices $ in 25291126th byte.
+      17.2.9.3. Complete graphs $ in 25306473th byte.
+    17.2.10. Vertex degree $ in 25351249th byte.
+    17.2.11. Regular graphs $ in 25437238th byte.
+  17.3. Walks, paths and cycles $ in 25461062th byte.
+    17.3.1. Walks $ in 25468091th byte.
+    17.3.2. Walks for loop-free graphs $ in 25558228th byte.
+    17.3.3. Trails $ in 25562152th byte.
+    17.3.4. Paths and simple paths $ in 25578838th byte.
+    17.3.5. Closed walks $ in 25638900th byte.
+    17.3.6. Circuits and cycles $ in 25649683th byte.
+    17.3.7. Walks as words $ in 25691796th byte.
+    17.3.8. Walks/paths of length 2 (as length 3 strings) $ in 25798424th byte.
+    17.3.9. Walks in regular graphs $ in 25845731th byte.
+    17.3.10. Closed walks as words $ in 25862778th byte.
+      17.3.10.1. Closed walks as words $ in 25865843th byte.
+      17.3.10.2. Closed walks of a fixed length as words $ in 25934405th byte.
+      17.3.10.3. Closed walks on a vertex of a fixed length as words $ in 26016283th byte.
+    17.3.11. Examples for walks, trails and paths $ in 26049964th byte.
+    17.3.12. Connected graphs $ in 26115601th byte.
+  17.4. Eulerian paths and the Konigsberg Bridge problem $ in 26125531th byte.
+    17.4.1. Eulerian paths $ in 26125750th byte.
+    17.4.2. The K&ouml;nigsberg Bridge problem $ in 26188772th byte.
+  17.5. The Friendship Theorem $ in 26205899th byte.
+    17.5.1. Friendship graphs - basics $ in 26206092th byte.
+    17.5.2. The friendship theorem for small graphs $ in 26215303th byte.
+    17.5.3. Theorems according to Mertzios and Unger $ in 26239517th byte.
+    17.5.4. Huneke's Proof of the Friendship Theorem $ in 26260872th byte.
+18. GUIDES AND MISCELLANEA $ in 26413165th byte.
+  18.1. Guides (conventions, explanations, and examples) $ in 26413358th byte.
+    18.1.1. Conventions $ in 26413577th byte.
+    18.1.2. Natural deduction $ in 26528762th byte.
+    18.1.3. Natural deduction examples $ in 26539073th byte.
+    18.1.4. Definitional examples $ in 26571723th byte.
+    18.1.5. Other examples $ in 26592031th byte.
+  18.2. Humor $ in 26595920th byte.
+    18.2.1. April Fool's theorem $ in 26596096th byte.
+  18.3. (Future - to be reviewed and classified) $ in 26606404th byte.
+    18.3.1. Planar incidence geometry $ in 26606615th byte.
+    18.3.2. Aliases kept to prevent broken links $ in 26616272th byte.
+19. COMPLEX TOPOLOGICAL VECTOR SPACES (DEPRECATED) $ in 26617732th byte.
+  19.1. Additional material on group theory (deprecated) $ in 26618517th byte.
+    19.1.1. Definitions and basic properties for groups $ in 26619057th byte.
+    19.1.2. Abelian groups $ in 26656125th byte.
+  19.2. Complex vector spaces $ in 26663964th byte.
+    19.2.1. Definition and basic properties $ in 26664156th byte.
+    19.2.2. Examples of complex vector spaces $ in 26682100th byte.
+  19.3. Normed complex vector spaces $ in 26684115th byte.
+    19.3.1. Definition and basic properties $ in 26684314th byte.
+    19.3.2. Examples of normed complex vector spaces $ in 26738863th byte.
+    19.3.3. Induced metric of a normed complex vector space $ in 26743195th byte.
+    19.3.4. Inner product $ in 26763188th byte.
+    19.3.5. Subspaces $ in 26785918th byte.
+  19.4. Operators on complex vector spaces $ in 26802397th byte.
+    19.4.1. Definitions and basic properties $ in 26802602th byte.
+  19.5. Inner product (pre-Hilbert) spaces $ in 26872232th byte.
+    19.5.1. Definition and basic properties $ in 26872437th byte.
+    19.5.2. Examples of pre-Hilbert spaces $ in 26877087th byte.
+    19.5.3. Properties of pre-Hilbert spaces $ in 26879490th byte.
+  19.6. Complex Banach spaces $ in 26935130th byte.
+    19.6.1. Definition and basic properties $ in 26935322th byte.
+    19.6.2. Examples of complex Banach spaces $ in 26938211th byte.
+    19.6.3. Uniform Boundedness Theorem $ in 26938866th byte.
+    19.6.4. Minimizing Vector Theorem $ in 26956233th byte.
+  19.7. Complex Hilbert spaces $ in 26985426th byte.
+    19.7.1. Definition and basic properties $ in 26985619th byte.
+    19.7.2. Standard axioms for a complex Hilbert space $ in 26990193th byte.
+    19.7.3. Examples of complex Hilbert spaces $ in 26997714th byte.
+    19.7.4. Hellinger-Toeplitz Theorem $ in 26998240th byte.
+  19.8. Appendix:  Typesetting definitions for the tokens in this file $ in 27006850th byte.
+20. COMPLEX HILBERT SPACE EXPLORER (DEPRECATED) $ in 27303716th byte.
+  20.1. Axiomatization of complex pre-Hilbert spaces $ in 27304999th byte.
+    20.1.1. Basic Hilbert space definitions $ in 27305214th byte.
+    20.1.2. Preliminary ZFC lemmas $ in 27312062th byte.
+    20.1.3. Derive the Hilbert space axioms from ZFC set theory $ in 27320440th byte.
+    20.1.4. Introduce the vector space axioms for a Hilbert space $ in 27329619th byte.
+    20.1.5. Vector operations $ in 27333613th byte.
+    20.1.6. Inner product postulates for a Hilbert space $ in 27365385th byte.
+  20.2. Inner product and norms $ in 27368077th byte.
+    20.2.1. Inner product $ in 27368271th byte.
+    20.2.2. Norms $ in 27394793th byte.
+    20.2.3. Relate Hilbert space to normed complex vector spaces $ in 27422762th byte.
+    20.2.4. Bunjakovaskij-Cauchy-Schwarz inequality $ in 27431238th byte.
+  20.3. Cauchy sequences and completeness axiom $ in 27435458th byte.
+    20.3.1. Cauchy sequences and limits $ in 27435668th byte.
+    20.3.2. Derivation of the completeness axiom from ZF set theory $ in 27443080th byte.
+    20.3.3. Completeness postulate for a Hilbert space $ in 27446848th byte.
+    20.3.4. Relate Hilbert space to ZFC pre-Hilbert and Hilbert spaces $ in 27447260th byte.
+  20.4. Subspaces and projections $ in 27449404th byte.
+    20.4.1. Subspaces $ in 27449600th byte.
+    20.4.2. Closed subspaces $ in 27456375th byte.
+    20.4.3. Orthocomplements $ in 27471369th byte.
+    20.4.4. Subspace sum, span, lattice join, lattice supremum $ in 27510148th byte.
+    20.4.5. Projection theorem $ in 27548950th byte.
+    20.4.6. Projectors $ in 27557319th byte.
+  20.5. Properties of Hilbert subspaces $ in 27562387th byte.
+    20.5.1. Orthomodular law $ in 27562589th byte.
+    20.5.2. Projectors (cont.) $ in 27571911th byte.
+    20.5.3. Hilbert lattice operations $ in 27584632th byte.
+    20.5.4. Span (cont.) and one-dimensional subspaces $ in 27622008th byte.
+    20.5.5. Commutes relation for Hilbert lattice elements $ in 27653414th byte.
+    20.5.6. Foulis-Holland theorem $ in 27669178th byte.
+    20.5.7. Quantum Logic Explorer axioms $ in 27677195th byte.
+    20.5.8. Orthogonal subspaces $ in 27681857th byte.
+    20.5.9. Orthoarguesian laws 5OA and 3OA $ in 27701790th byte.
+    20.5.10. Projectors (cont.) $ in 27723389th byte.
+    20.5.11. Mayet's equation E_3 $ in 27758838th byte.
+  20.6. Operators on Hilbert spaces $ in 27764950th byte.
+    20.6.1. Operator sum, difference, and scalar multiplication $ in 27765148th byte.
+    20.6.2. Zero and identity operators $ in 27775528th byte.
+    20.6.3. Operations on Hilbert space operators $ in 27778827th byte.
+    20.6.4. Linear, continuous, bounded, Hermitian, unitary operators and norms $ in 27825074th byte.
+    20.6.5. Linear and continuous functionals and norms $ in 27827383th byte.
+    20.6.6. Adjoint $ in 27828810th byte.
+    20.6.7. Dirac bra-ket notation $ in 27829594th byte.
+    20.6.8. Positive operators $ in 27832088th byte.
+    20.6.9. Eigenvectors, eigenvalues, spectrum $ in 27832658th byte.
+    20.6.10. Theorems about operators and functionals $ in 27834082th byte.
+    20.6.11. Riesz lemma $ in 27991926th byte.
+    20.6.12. Adjoints (cont.) $ in 27999424th byte.
+    20.6.13. Quantum computation error bound theorem $ in 28036436th byte.
+    20.6.14. Dirac bra-ket notation (cont.) $ in 28038646th byte.
+    20.6.15. Positive operators (cont.) $ in 28054251th byte.
+    20.6.16. Projectors as operators $ in 28080764th byte.
+  20.7. States on a Hilbert lattice and Godowski's equation $ in 28130433th byte.
+    20.7.1. States on a Hilbert lattice $ in 28130655th byte.
+    20.7.2. Godowski's equation $ in 28171902th byte.
+  20.8. Cover relation, atoms, exchange axiom, and modular symmetry $ in 28179203th byte.
+    20.8.1. Covers relation; modular pairs $ in 28179433th byte.
+    20.8.2. Atoms $ in 28235901th byte.
+    20.8.3. Superposition principle $ in 28243694th byte.
+    20.8.4. Atoms, exchange and covering properties, atomicity $ in 28247919th byte.
+    20.8.5. Irreducibility $ in 28276432th byte.
+    20.8.6. Atoms (cont.) $ in 28285115th byte.
+    20.8.7. Modular symmetry $ in 28292284th byte.
+21. SUPPLEMENTARY MATERIAL (USERS' MATHBOXES) $ in 28337423th byte.
+  21.1. Mathboxes for user contributions $ in 28337635th byte.
+    21.1.1. Mathbox guidelines $ in 28337838th byte.
+  21.2. Mathbox for Stefan Allan $ in 28341431th byte.
+  21.3. Mathbox for Thierry Arnoux $ in 28344185th byte.
+    21.3.1. Propositional Calculus - misc additions $ in 28345740th byte.
+    21.3.2. Predicate Calculus $ in 28348018th byte.
+      21.3.2.1. Predicate Calculus - misc additions $ in 28348207th byte.
+      21.3.2.2. Restricted quantification - misc additions $ in 28349696th byte.
+      21.3.2.3. Equality $ in 28352166th byte.
+      21.3.2.4. Double restricted existential uniqueness quantification $ in 28353247th byte.
+      21.3.2.5. Double restricted existential uniqueness quantification syntax $ in 28357223th byte.
+      21.3.2.6. Substitution (without distinct variables) - misc additions $ in 28360942th byte.
+      21.3.2.7. Existential "at most one" - misc additions $ in 28362127th byte.
+      21.3.2.8. Existential uniqueness - misc additions $ in 28363487th byte.
+      21.3.2.9. Restricted "at most one" - misc additions $ in 28367011th byte.
+      21.3.2.10. Restricted iota (description binder) $ in 28369338th byte.
+    21.3.3. General Set Theory $ in 28370006th byte.
+      21.3.3.1. Class abstractions (a.k.a. class builders) $ in 28370195th byte.
+      21.3.3.2. Image Sets $ in 28376545th byte.
+      21.3.3.3. Set relations and operations - misc additions $ in 28380073th byte.
+      21.3.3.4. Unordered pairs $ in 28385860th byte.
+      21.3.3.5. Conditional operator - misc additions $ in 28390420th byte.
+      21.3.3.6. Set union $ in 28396393th byte.
+      21.3.3.7. Indexed union - misc additions $ in 28398554th byte.
+      21.3.3.8. Indexed intersection - misc additions $ in 28407827th byte.
+      21.3.3.9. Disjointness - misc additions $ in 28409171th byte.
+    21.3.4. Relations and Functions $ in 28434671th byte.
+      21.3.4.1. Relations - misc additions $ in 28434865th byte.
+      21.3.4.2. Functions - misc additions $ in 28450913th byte.
+      21.3.4.3. Operations - misc additions $ in 28513671th byte.
+      21.3.4.4. Support of a function $ in 28514942th byte.
+      21.3.4.5. Explicit Functions with one or two points as a domain $ in 28526299th byte.
+      21.3.4.6. Isomorphisms - misc. additions $ in 28530757th byte.
+      21.3.4.7. Disjointness (additional proof requiring functions) $ in 28534818th byte.
+      21.3.4.8. First and second members of an ordered pair - misc additions $ in 28536563th byte.
+      21.3.4.9. Equivalence relations and classes $ in 28543759th byte.
+      21.3.4.10. Supremum - misc additions $ in 28544260th byte.
+      21.3.4.11. Finite Sets $ in 28546110th byte.
+      21.3.4.12. Countable Sets $ in 28546902th byte.
+    21.3.5. Real and Complex Numbers $ in 28580000th byte.
+      21.3.5.1. Complex operations - misc. additions $ in 28580195th byte.
+      21.3.5.2. Ordering on reals - misc additions $ in 28581935th byte.
+      21.3.5.3. Extended reals - misc additions $ in 28583617th byte.
+      21.3.5.4. Extended nonnegative integers - misc additions $ in 28604218th byte.
+      21.3.5.5. Real number intervals - misc additions $ in 28606537th byte.
+      21.3.5.6. Finite intervals of integers - misc additions $ in 28615059th byte.
+      21.3.5.7. Half-open integer ranges - misc additions $ in 28624585th byte.
+      21.3.5.8. The ` # ` (set size) function - misc additions $ in 28635108th byte.
+      21.3.5.9. The greatest common divisor operator - misc. additions $ in 28638900th byte.
+      21.3.5.10. Integers $ in 28643721th byte.
+      21.3.5.11. Decimal numbers $ in 28656870th byte.
+    21.3.6. Decimal expansion $ in 28657814th byte.
+      21.3.6.1. Decimal point $ in 28666007th byte.
+      21.3.6.2. Division in the extended real number system $ in 28692763th byte.
+    21.3.7. Words over a set - misc additions $ in 28704644th byte.
+      21.3.7.1. Splicing words (substring replacement) $ in 28730267th byte.
+      21.3.7.2. Cyclic shift of words $ in 28731879th byte.
+    21.3.8. Extensible Structures $ in 28736313th byte.
+      21.3.8.1. Structure restriction operator $ in 28736505th byte.
+      21.3.8.2. The opposite group $ in 28739059th byte.
+      21.3.8.3. Posets $ in 28740410th byte.
+      21.3.8.4. Complete lattices $ in 28753172th byte.
+      21.3.8.5. Order Theory $ in 28754137th byte.
+      21.3.8.6. Extended reals Structure - misc additions $ in 28787532th byte.
+      21.3.8.7. The extended nonnegative real numbers commutative monoid $ in 28795951th byte.
+    21.3.9. Algebra $ in 28804945th byte.
+      21.3.9.1. Monoids Homomorphisms $ in 28805123th byte.
+      21.3.9.2. Finitely supported group sums - misc additions $ in 28809824th byte.
+      21.3.9.3. Centralizers and centers - misc additions $ in 28841335th byte.
+      21.3.9.4. Totally ordered monoids and groups $ in 28843684th byte.
+      21.3.9.5. The symmetric group $ in 28873688th byte.
+      21.3.9.6. Transpositions $ in 28887837th byte.
+      21.3.9.7. Permutation Signs $ in 28890309th byte.
+      21.3.9.8. Permutation cycles $ in 28905543th byte.
+      21.3.9.9. The Alternating Group $ in 28976526th byte.
+      21.3.9.10. Signum in an ordered monoid $ in 29012645th byte.
+      21.3.9.11. The Archimedean property for generic ordered algebraic structures $ in 29017035th byte.
+      21.3.9.12. Semiring left modules $ in 29054783th byte.
+      21.3.9.13. Simple groups $ in 29084410th byte.
+      21.3.9.14. Rings - misc additions $ in 29085119th byte.
+      21.3.9.15. Euclidean Domains $ in 29103096th byte.
+      21.3.9.16. Division Rings $ in 29104657th byte.
+      21.3.9.17. Subfields $ in 29108801th byte.
+      21.3.9.18. Field extensions generated by a set $ in 29111561th byte.
+      21.3.9.19. Totally ordered rings and fields $ in 29120238th byte.
+      21.3.9.20. Ring homomorphisms - misc additions $ in 29144055th byte.
+      21.3.9.21. Scalar restriction operation $ in 29148213th byte.
+      21.3.9.22. The commutative ring of gaussian integers $ in 29158293th byte.
+      21.3.9.23. The archimedean ordered field of real numbers $ in 29158776th byte.
+      21.3.9.24. The quotient map and quotient modules $ in 29165028th byte.
+      21.3.9.25. The ring of integers modulo ` N ` $ in 29189703th byte.
+      21.3.9.26. Independent sets and families $ in 29195268th byte.
+      21.3.9.27. Subgroup sum / Sumset / Minkowski sum $ in 29222302th byte.
+      21.3.9.28. The quotient map $ in 29237449th byte.
+      21.3.9.29. Ideals $ in 29278129th byte.
+      21.3.9.30. Prime Ideals $ in 29319268th byte.
+      21.3.9.31. Maximal Ideals $ in 29344945th byte.
+      21.3.9.32. The semiring of ideals of a ring $ in 29398430th byte.
+      21.3.9.33. Prime Elements $ in 29411899th byte.
+      21.3.9.34. Unique factorization domains $ in 29412084th byte.
+      21.3.9.35. Associative algebras $ in 29416407th byte.
+      21.3.9.36. Univariate Polynomials $ in 29417581th byte.
+      21.3.9.37. Polynomial quotient and polynomial remainder $ in 29468813th byte.
+      21.3.9.38. The subring algebra $ in 29485413th byte.
+      21.3.9.39. Division Ring Extensions $ in 29492415th byte.
+      21.3.9.40. Vector Spaces $ in 29496216th byte.
+      21.3.9.41. Vector Space Dimension $ in 29497494th byte.
+    21.3.10. Field Extensions $ in 29583310th byte.
+      21.3.10.1. Algebraic numbers $ in 29610001th byte.
+      21.3.10.2. Minimal polynomials $ in 29623003th byte.
+    21.3.11. Matrices $ in 29671333th byte.
+      21.3.11.1. Submatrices $ in 29671512th byte.
+      21.3.11.2. Matrix literals $ in 29697881th byte.
+      21.3.11.3. Laplace expansion of determinants $ in 29707804th byte.
+    21.3.12. Topology $ in 29739171th byte.
+      21.3.12.1. Open maps $ in 29741098th byte.
+      21.3.12.2. Regular spaces $ in 29743739th byte.
+      21.3.12.3. Topology of the unit circle $ in 29744740th byte.
+      21.3.12.4. Refinements $ in 29751782th byte.
+      21.3.12.5. Open cover refinement property $ in 29763085th byte.
+      21.3.12.6. Lindel&ouml;f spaces $ in 29769998th byte.
+      21.3.12.7. Paracompact spaces $ in 29771066th byte.
+      21.3.12.8. Spectrum of a ring $ in 29776983th byte.
+      21.3.12.9. Pseudometrics $ in 29813918th byte.
+      21.3.12.10. Continuity - misc additions $ in 29827086th byte.
+      21.3.12.11. Topology of the closed unit interval $ in 29828514th byte.
+      21.3.12.12. Topology of ` ( RR X. RR ) ` $ in 29831387th byte.
+      21.3.12.13. Order topology - misc. additions $ in 29848056th byte.
+      21.3.12.14. Continuity in topological spaces - misc. additions $ in 29870928th byte.
+      21.3.12.15. Topology of the extended nonnegative real numbers ordered monoid $ in 29880175th byte.
+      21.3.12.16. Limits - misc additions $ in 29900397th byte.
+      21.3.12.17. Univariate polynomials $ in 29913329th byte.
+    21.3.13. Uniform Stuctures and Spaces $ in 29916330th byte.
+      21.3.13.1. Hausdorff uniform completion $ in 29916529th byte.
+    21.3.14. Topology and algebraic structures $ in 29917821th byte.
+      21.3.14.1. The norm on the ring of the integer numbers $ in 29918025th byte.
+      21.3.14.2. Topological ` ZZ ` -modules $ in 29918998th byte.
+      21.3.14.3. Canonical embedding of the field of the rational numbers into a division ring $ in 29928868th byte.
+      21.3.14.4. Canonical embedding of the real numbers into a complete ordered field $ in 29959958th byte.
+      21.3.14.5. Embedding from the extended real numbers into a complete lattice $ in 29975187th byte.
+      21.3.14.6. Canonical embeddings into the ordered field of the real numbers $ in 29976891th byte.
+      21.3.14.7. Topological Manifolds $ in 29981345th byte.
+    21.3.15. Real and complex functions $ in 29985242th byte.
+      21.3.15.1. Integer powers - misc. additions $ in 29985439th byte.
+      21.3.15.2. Indicator Functions $ in 29987256th byte.
+      21.3.15.3. Extended sum $ in 30000527th byte.
+    21.3.16. Mixed Function/Constant operation $ in 30105718th byte.
+    21.3.17. Abstract measure $ in 30113900th byte.
+      21.3.17.1. Sigma-Algebra $ in 30114087th byte.
+      21.3.17.2. Generated sigma-Algebra $ in 30136749th byte.
+      21.3.17.3. lambda and pi-Systems, Rings of Sets $ in 30142734th byte.
+      21.3.17.4. The Borel algebra on the real numbers $ in 30176626th byte.
+      21.3.17.5. Product Sigma-Algebra $ in 30179758th byte.
+      21.3.17.6. Measures $ in 30183429th byte.
+      21.3.17.7. The counting measure $ in 30217935th byte.
+      21.3.17.8. The Lebesgue measure - misc additions $ in 30220386th byte.
+      21.3.17.9. The Dirac delta measure $ in 30229406th byte.
+      21.3.17.10. The 'almost everywhere' relation $ in 30234392th byte.
+      21.3.17.11. Measurable functions $ in 30242433th byte.
+      21.3.17.12. Borel Algebra on ` ( RR X. RR ) ` $ in 30263729th byte.
+      21.3.17.13. Caratheodory's extension theorem $ in 30296943th byte.
+      21.3.17.14. Caratheodory's extension theorem: examples and applications $ in 30372058th byte.
+      21.3.17.15. Caratheodory's extension theorem: measure on RR ^ N $ in 30373083th byte.
+    21.3.18. Integration $ in 30373380th byte.
+      21.3.18.1. Lebesgue integral - misc additions $ in 30373562th byte.
+      21.3.18.2. Bochner integral $ in 30374640th byte.
+    21.3.19. Euler's partition theorem $ in 30421425th byte.
+    21.3.20. Sequences defined by strong recursion $ in 30493102th byte.
+    21.3.21. Fibonacci Numbers $ in 30508247th byte.
+    21.3.22. Probability $ in 30516179th byte.
+      21.3.22.1. Probability Theory $ in 30516361th byte.
+      21.3.22.2. Conditional Probabilities $ in 30531718th byte.
+      21.3.22.3. Real-valued Random Variables $ in 30538360th byte.
+      21.3.22.4. Preimage set mapping operator $ in 30546961th byte.
+      21.3.22.5. Distribution Functions $ in 30556642th byte.
+      21.3.22.6. Cumulative Distribution Functions $ in 30561662th byte.
+      21.3.22.7. Probabilities - example $ in 30582525th byte.
+      21.3.22.8. Bertrand's Ballot Problem $ in 30593194th byte.
+    21.3.23. Signum (sgn or sign) function - misc. additions $ in 30670783th byte.
+      21.3.23.1. Operations on words $ in 30684697th byte.
+    21.3.24. Polynomials with real coefficients - misc additions $ in 30689718th byte.
+    21.3.25. Descartes's rule of signs $ in 30705140th byte.
+      21.3.25.1. Sign changes in a word over real numbers $ in 30705336th byte.
+      21.3.25.2. Counting sign changes in a word over real numbers $ in 30713606th byte.
+      21.3.25.3. Sign changes in a polynomial with real coefficients $ in 30781020th byte.
+    21.3.26. Number Theory $ in 30783585th byte.
+      21.3.26.1. Representations of a number as sums of integers $ in 30810765th byte.
+      21.3.26.2. Vinogradov Trigonometric Sums and the Circle Method $ in 30864698th byte.
+      21.3.26.3. The Ternary Goldbach Conjecture: Final Statement $ in 30883282th byte.
+    21.3.27. Elementary Geometry $ in 30952175th byte.
+      21.3.27.1. Two-dimensional geometry $ in 30952365th byte.
+      21.3.27.2. Morley's Miracle $ in 30959151th byte.
+      21.3.27.3. Outer Five Segment (not used, no need to move to main) $ in 30966733th byte.
+    21.3.28. LeftPad Project $ in 30976092th byte.
+  21.4. Mathbox for Jonathan Ben-Naim $ in 30983400th byte.
+    21.4.1. First-order logic and set theory $ in 30997696th byte.
+    21.4.2. Well founded induction and recursion $ in 31062943th byte.
+    21.4.3. The existence of a minimal element in certain classes $ in 31264207th byte.
+    21.4.4. Well-founded induction $ in 31266151th byte.
+    21.4.5. Well-founded recursion, part 1 of 3 $ in 31355704th byte.
+    21.4.6. Well-founded recursion, part 2 of 3 $ in 31363321th byte.
+    21.4.7. Well-founded recursion, part 3 of 3 $ in 31369678th byte.
+  21.5. Mathbox for BTernaryTau $ in 31371145th byte.
+    21.5.1. ZF set theory $ in 31371339th byte.
+      21.5.1.1. Finitism $ in 31381594th byte.
+    21.5.2. Real and complex numbers $ in 31387309th byte.
+    21.5.3. Graph theory $ in 31396254th byte.
+      21.5.3.1. Acyclic graphs $ in 31427062th byte.
+  21.6. Mathbox for Mario Carneiro $ in 31438626th byte.
+    21.6.1. Predicate calculus with all distinct variables $ in 31438823th byte.
+    21.6.2. Miscellaneous stuff $ in 31440028th byte.
+    21.6.3. Derangements and the Subfactorial $ in 31470376th byte.
+    21.6.4. The Erd&#337;s-Szekeres theorem $ in 31524341th byte.
+    21.6.5. Euler's partition theorem $ in 31551079th byte.
+    21.6.6. The Kuratowski closure-complement theorem $ in 31560472th byte.
+    21.6.7. Retracts and sections $ in 31572794th byte.
+    21.6.8. Path-connected and simply connected spaces $ in 31574093th byte.
+    21.6.9. Covering maps $ in 31621903th byte.
+    21.6.10. Normal numbers $ in 31776559th byte.
+    21.6.11. Compactification $ in 31785165th byte.
+    21.6.12. Godel-sets of formulas - part 1 $ in 31785861th byte.
+    21.6.13. Godel-sets of formulas - part 2 $ in 31944443th byte.
+    21.6.14. Models of ZF $ in 31948208th byte.
+    21.6.15. Metamath formal systems $ in 31951184th byte.
+    21.6.16. Grammatical formal systems $ in 32061555th byte.
+    21.6.17. Models of formal systems $ in 32065602th byte.
+    21.6.18. Splitting fields $ in 32071570th byte.
+    21.6.19. <i>p</i>-adic number fields $ in 32079338th byte.
+  21.7. Mathbox for Filip Cernatescu $ in 32085439th byte.
+  21.8. Mathbox for Paul Chapman $ in 32093151th byte.
+    21.8.1. Propositional calculus $ in 32093346th byte.
+    21.8.2. Prime numbers $ in 32093539th byte.
+    21.8.3. Finite set induction $ in 32093723th byte.
+    21.8.4. The ` # ` (set size) function $ in 32093914th byte.
+    21.8.5. Real and complex numbers (cont.) $ in 32094114th byte.
+    21.8.6. Miscellaneous theorems $ in 32103257th byte.
+  21.9. Mathbox for Drahflow $ in 32108787th byte.
+  21.10. Mathbox for Adrian Ducourtial $ in 32109212th byte.
+  21.11. Mathbox for Scott Fenton $ in 32109990th byte.
+    21.11.1. ZFC Axioms in primitive form $ in 32110305th byte.
+    21.11.2. Untangled classes $ in 32114372th byte.
+    21.11.3. Extra propositional calculus theorems $ in 32117859th byte.
+    21.11.4. Misc. Useful Theorems $ in 32119063th byte.
+    21.11.5. Properties of real and complex numbers $ in 32124977th byte.
+    21.11.6. Infinite products $ in 32140216th byte.
+    21.11.7. Factorial limits $ in 32153050th byte.
+    21.11.8. Greatest common divisor and divisibility $ in 32168034th byte.
+    21.11.9. Properties of relationships $ in 32169065th byte.
+    21.11.10. Properties of functions and mappings $ in 32187671th byte.
+    21.11.11. Set induction (or epsilon induction) $ in 32198152th byte.
+    21.11.12. Ordinal numbers $ in 32199921th byte.
+    21.11.13. Defined equality axioms $ in 32225831th byte.
+    21.11.14. Hypothesis builders $ in 32229421th byte.
+    21.11.15. Well-founded zero, successor, and limits $ in 32231024th byte.
+    21.11.16. Quantifier-free definitions $ in 32240943th byte.
+    21.11.17. Alternate ordered pairs $ in 32310955th byte.
+    21.11.18. Geometry in the Euclidean space $ in 32322138th byte.
+      21.11.18.1. Congruence properties $ in 32322340th byte.
+      21.11.18.2. Betweenness properties $ in 32347206th byte.
+      21.11.18.3. Segment Transportation $ in 32362606th byte.
+      21.11.18.4. Properties relating betweenness and congruence $ in 32369049th byte.
+      21.11.18.5. Connectivity of betweenness $ in 32424332th byte.
+      21.11.18.6. Segment less than or equal to $ in 32467306th byte.
+      21.11.18.7. Outside-of relationship $ in 32488507th byte.
+      21.11.18.8. Lines and Rays $ in 32505174th byte.
+    21.11.19. Forward difference $ in 32535069th byte.
+    21.11.20. Rank theorems $ in 32546332th byte.
+    21.11.21. Hereditarily Finite Sets $ in 32550095th byte.
+  21.12. Mathbox for Gino Giotto $ in 32559504th byte.
+    21.12.1. Study of ax-mulf usage. $ in 32559698th byte.
+      21.12.1.1. Miscellaneous $ in 32604233th byte.
+      21.12.1.2. Theorems avoiding ax-addf $ in 32629619th byte.
+      21.12.1.3. Revision of df-cnfld $ in 32631025th byte.
+      21.12.1.4. Replace cnfldmul with mpocnfldmul $ in 32646445th byte.
+  21.13. Mathbox for Jeff Hankins $ in 32649662th byte.
+    21.13.1. Miscellany $ in 32649857th byte.
+    21.13.2. Basic topological facts $ in 32675546th byte.
+    21.13.3. Topology of the real numbers $ in 32684279th byte.
+    21.13.4. Refinements $ in 32688970th byte.
+    21.13.5. Neighborhood bases determine topologies $ in 32704705th byte.
+    21.13.6. Lattice structure of topologies $ in 32719967th byte.
+    21.13.7. Filter bases $ in 32728473th byte.
+    21.13.8. Directed sets, nets $ in 32730655th byte.
+  21.14. Mathbox for Anthony Hart $ in 32745789th byte.
+    21.14.1. Propositional Calculus $ in 32745984th byte.
+    21.14.2. Predicate Calculus $ in 32752517th byte.
+    21.14.3. Miscellaneous single axioms $ in 32754489th byte.
+    21.14.4. Connective Symmetry $ in 32758917th byte.
+  21.15. Mathbox for Chen-Pang He $ in 32762734th byte.
+    21.15.1. Ordinal topology $ in 32762929th byte.
+  21.16. Mathbox for Jeff Hoffman $ in 32777935th byte.
+    21.16.1. Inferences for finite induction on generic function values $ in 32778130th byte.
+    21.16.2. gdc.mm $ in 32780526th byte.
+  21.17. Mathbox for Asger C. Ipsen $ in 32785055th byte.
+    21.17.1. Continuous nowhere differentiable functions $ in 32785252th byte.
+  21.18. Mathbox for BJ $ in 32890375th byte.
+    21.18.1. Propositional calculus $ in 32890754th byte.
+      21.18.1.1. Derived rules of inference $ in 32891009th byte.
+      21.18.1.2. A syntactic theorem $ in 32891940th byte.
+      21.18.1.3. Minimal implicational calculus $ in 32894304th byte.
+      21.18.1.4. Positive calculus $ in 32899948th byte.
+      21.18.1.5. Implication and negation $ in 32903550th byte.
+      21.18.1.6. Disjunction $ in 32906831th byte.
+      21.18.1.7. Logical equivalence $ in 32907744th byte.
+      21.18.1.8. The conditional operator for propositions $ in 32909798th byte.
+      21.18.1.9. Propositional calculus: miscellaneous $ in 32912847th byte.
+    21.18.2. Modal logic $ in 32916515th byte.
+    21.18.3. Provability logic $ in 32921788th byte.
+    21.18.4. First-order logic $ in 32928407th byte.
+      21.18.4.1. Universal and existential quantifiers, nonfreeness predicate $ in 32928859th byte.
+      21.18.4.2. Adding ax-gen $ in 32929090th byte.
+      21.18.4.3. Adding ax-4 $ in 32930579th byte.
+      21.18.4.4. Adding ax-5 $ in 32945160th byte.
+      21.18.4.5. Equality and substitution $ in 32949216th byte.
+      21.18.4.6. Adding ax-6 $ in 32956132th byte.
+      21.18.4.7. Adding ax-7 $ in 32958624th byte.
+      21.18.4.8. Membership predicate, ax-8 and ax-9 $ in 32959750th byte.
+      21.18.4.9. Logical redundancy of ax-10--13 $ in 32961256th byte.
+      21.18.4.10. Adding ax-10 $ in 32961458th byte.
+      21.18.4.11. Adding ax-11 $ in 32961641th byte.
+      21.18.4.12. Adding ax-12 $ in 32962711th byte.
+      21.18.4.13. Really adding ax-12 $ in 32977498th byte.
+      21.18.4.14. Nonfreeness $ in 32977853th byte.
+      21.18.4.15. Adding ax-13 $ in 33009529th byte.
+      21.18.4.16. Removing dependencies on ax-13 (and ax-11) $ in 33013139th byte.
+      21.18.4.17. Strengthenings of theorems of the main part $ in 33027107th byte.
+      21.18.4.18. Distinct var metavariables $ in 33027662th byte.
+      21.18.4.19. Around ~ equsal $ in 33029294th byte.
+      21.18.4.20. Some Principia Mathematica proofs $ in 33031870th byte.
+      21.18.4.21. Alternate definition of substitution $ in 33035886th byte.
+      21.18.4.22. Lemmas for substitution $ in 33037040th byte.
+      21.18.4.23. Existential uniqueness $ in 33038098th byte.
+      21.18.4.24. First-order logic: miscellaneous $ in 33038865th byte.
+    21.18.5. Set theory $ in 33049039th byte.
+      21.18.5.1. Eliminability of class terms $ in 33049220th byte.
+      21.18.5.2. Classes without the axiom of extensionality $ in 33059013th byte.
+      21.18.5.3. Characterization among sets versus among classes $ in 33078485th byte.
+      21.18.5.4. The nonfreeness quantifier for classes $ in 33079857th byte.
+      21.18.5.5. Lemmas for class substitution $ in 33081033th byte.
+      21.18.5.6. Removing some axiom requirements and disjoint variable conditions $ in 33086621th byte.
+      21.18.5.7. Class abstractions $ in 33094009th byte.
+      21.18.5.8. Generalized class abstractions $ in 33097895th byte.
+      21.18.5.9. Restricted nonfreeness $ in 33102878th byte.
+      21.18.5.10. Russell's paradox $ in 33103492th byte.
+      21.18.5.11. Curry's paradox in set theory $ in 33105340th byte.
+      21.18.5.12. Some disjointness results $ in 33108529th byte.
+      21.18.5.13. Complements on direct products $ in 33109838th byte.
+      21.18.5.14. "Singletonization" and tagging $ in 33113034th byte.
+      21.18.5.15. Tuples of classes $ in 33123656th byte.
+      21.18.5.16. Set theory: elementary operations relative to a universe $ in 33139060th byte.
+      21.18.5.17. Axioms for finite unions $ in 33141886th byte.
+      21.18.5.18. Set theory: miscellaneous $ in 33151093th byte.
+      21.18.5.19. Evaluation at a class $ in 33165460th byte.
+      21.18.5.20. Elementwise operations $ in 33168878th byte.
+      21.18.5.21. Elementwise intersection (families of sets induced on a subset) $ in 33169886th byte.
+      21.18.5.22. Moore collections (complements) $ in 33181800th byte.
+      21.18.5.23. Maps-to notation for functions with three arguments $ in 33194935th byte.
+      21.18.5.24. Currying $ in 33198666th byte.
+      21.18.5.25. Setting components of extensible structures $ in 33203457th byte.
+    21.18.6. Extended real and complex numbers, real and complex projective lines $ in 33205250th byte.
+      21.18.6.1. Complements on class abstractions of ordered pairs and binary relations $ in 33207927th byte.
+      21.18.6.2. Identity relation (complements) $ in 33216492th byte.
+      21.18.6.3. Functionalized identity (diagonal in a Cartesian square) $ in 33229498th byte.
+      21.18.6.4. Direct image and inverse image $ in 33234070th byte.
+      21.18.6.5. Extended numbers and projective lines as sets $ in 33247740th byte.
+      21.18.6.6. Addition and opposite $ in 33263428th byte.
+      21.18.6.7. Order relation on the extended reals $ in 33265504th byte.
+      21.18.6.8. Argument, multiplication and inverse $ in 33266379th byte.
+      21.18.6.9. The canonical bijection from the finite ordinals $ in 33270361th byte.
+      21.18.6.10. Divisibility $ in 33278192th byte.
+    21.18.7. Monoids $ in 33279818th byte.
+      21.18.7.1. Finite sums in monoids $ in 33284420th byte.
+    21.18.8. Affine, Euclidean, and Cartesian geometry $ in 33290250th byte.
+      21.18.8.1. Real vector spaces $ in 33290639th byte.
+      21.18.8.2. Complex numbers (supplements) $ in 33298162th byte.
+      21.18.8.3. Barycentric coordinates $ in 33299267th byte.
+    21.18.9. Monoid of endomorphisms $ in 33303597th byte.
+  21.19. Mathbox for Jim Kingdon $ in 33307537th byte.
+      21.19.0.1. Circle constant $ in 33307731th byte.
+      21.19.0.2. Number theory $ in 33311226th byte.
+      21.19.0.3. Real numbers $ in 33312558th byte.
+  21.20. Mathbox for ML $ in 33316998th byte.
+    21.20.1. Miscellaneous $ in 33317183th byte.
+    21.20.2. Cartesian exponentiation $ in 33374929th byte.
+    21.20.3. Topology $ in 33395828th byte.
+      21.20.3.1. Pi-base theorems $ in 33408092th byte.
+  21.21. Mathbox for Wolf Lammen $ in 33418765th byte.
+    21.21.1. 1. Bootstrapping $ in 33425439th byte.
+    21.21.2. Implication chains $ in 33435292th byte.
+    21.21.3. Theorems around the conditional operator $ in 33449113th byte.
+    21.21.4. Alternative development of hadd, cadd $ in 33451005th byte.
+    21.21.5. An alternative axiom ~ ax-13 $ in 33469171th byte.
+    21.21.6. Other stuff $ in 33470460th byte.
+  21.22. Mathbox for Brendan Leahy $ in 33517978th byte.
+  21.23. Mathbox for Jeff Madsen $ in 34242054th byte.
+    21.23.1. Logic and set theory $ in 34242248th byte.
+    21.23.2. Real and complex numbers; integers $ in 34264436th byte.
+    21.23.3. Sequences and sums $ in 34267933th byte.
+    21.23.4. Topology $ in 34303173th byte.
+    21.23.5. Metric spaces $ in 34305076th byte.
+    21.23.6. Continuous maps and homeomorphisms $ in 34322282th byte.
+    21.23.7. Boundedness $ in 34325771th byte.
+    21.23.8. Isometries $ in 34386566th byte.
+    21.23.9. Heine-Borel Theorem $ in 34399750th byte.
+    21.23.10. Banach Fixed Point Theorem $ in 34447550th byte.
+    21.23.11. Euclidean space $ in 34458479th byte.
+    21.23.12. Intervals (continued) $ in 34481157th byte.
+    21.23.13. Operation properties $ in 34488479th byte.
+    21.23.14. Groups and related structures $ in 34491436th byte.
+    21.23.15. Group homomorphism and isomorphism $ in 34513936th byte.
+    21.23.16. Rings $ in 34525569th byte.
+    21.23.17. Division Rings $ in 34564456th byte.
+    21.23.18. Ring homomorphisms $ in 34578961th byte.
+    21.23.19. Commutative rings $ in 34602309th byte.
+    21.23.20. Ideals $ in 34614091th byte.
+    21.23.21. Prime rings and integral domains $ in 34647771th byte.
+    21.23.22. Ideal generators $ in 34653370th byte.
+  21.24. Mathbox for Giovanni Mascellani $ in 34673917th byte.
+    21.24.1. Tools for automatic proof building $ in 34674119th byte.
+    21.24.2. Tseitin axioms $ in 34693483th byte.
+    21.24.3. Equality deductions $ in 34701072th byte.
+    21.24.4. Miscellanea $ in 34710185th byte.
+  21.25. Mathbox for Peter Mazsa $ in 34724426th byte.
+    21.25.1. Notations $ in 34724698th byte.
+    21.25.2. Preparatory theorems $ in 34733993th byte.
+    21.25.3. Range Cartesian product $ in 34797937th byte.
+    21.25.4. Cosets by ` R ` $ in 34820851th byte.
+    21.25.5. Relations $ in 34858363th byte.
+    21.25.6. Subset relations $ in 34864338th byte.
+    21.25.7. Reflexivity $ in 34870571th byte.
+    21.25.8. Converse reflexivity $ in 34879472th byte.
+    21.25.9. Symmetry $ in 34888219th byte.
+    21.25.10. Reflexivity and symmetry $ in 34896055th byte.
+    21.25.11. Transitivity $ in 34902945th byte.
+    21.25.12. Equivalence relations $ in 34909628th byte.
+    21.25.13. Redundancy $ in 34929272th byte.
+    21.25.14. Domain quotients $ in 34937324th byte.
+    21.25.15. Equivalence relations on domain quotients $ in 34947253th byte.
+    21.25.16. Functions $ in 34956727th byte.
+    21.25.17. Disjoints vs. converse functions $ in 34966893th byte.
+    21.25.18. Antisymmetry $ in 34989245th byte.
+    21.25.19. Partitions: disjoints on domain quotients $ in 34991578th byte.
+    21.25.20. Partition-Equivalence Theorems $ in 34997806th byte.
+  21.26. Mathbox for Rodolfo Medina $ in 35034140th byte.
+    21.26.1. Partitions $ in 35034337th byte.
+  21.27. Mathbox for Norm Megill $ in 35049811th byte.
+    21.27.1. Predicate calculus with equality:  Older axiomatization (1 rule, 14 schemes) $ in 35053355th byte.
+    21.27.2. Obsolete schemes ax-c4,c5,c7,c10,c11,c11n,c15,c9,c14,c16 $ in 35055845th byte.
+    21.27.3. Rederive new axioms ax-4, ax-10, ax-6, ax-12, ax-13 from old $ in 35065791th byte.
+    21.27.4. Legacy theorems using obsolete axioms $ in 35073328th byte.
+    21.27.5. Experiments with weak deduction theorem $ in 35110112th byte.
+    21.27.6. Miscellanea $ in 35117676th byte.
+    21.27.7. Atoms, hyperplanes, and covering in a left vector space (or module) $ in 35119384th byte.
+    21.27.8. Functionals and kernels of a left vector space (or module) $ in 35201201th byte.
+    21.27.9. Opposite rings and dual vector spaces $ in 35282744th byte.
+    21.27.10. Ortholattices and orthomodular lattices $ in 35328549th byte.
+    21.27.11. Atomic lattices with covering property $ in 35391175th byte.
+    21.27.12. Hilbert lattices $ in 35456338th byte.
+    21.27.13. Projective geometries based on Hilbert lattices $ in 35603121th byte.
+    21.27.14. Construction of a vector space from a Hilbert lattice $ in 35922924th byte.
+    21.27.15. Construction of involution and inner product from a Hilbert lattice $ in 37965610th byte.
+  21.28. Mathbox for metakunt $ in 38605039th byte.
+    21.28.1. General helpful statements $ in 38605230th byte.
+    21.28.2. Some gcd and lcm results $ in 38621992th byte.
+    21.28.3. Least common multiple inequality theorem $ in 38632493th byte.
+    21.28.4. Logarithm inequalities $ in 38680103th byte.
+    21.28.5. Miscellaneous results for AKS formalisation $ in 38695337th byte.
+    21.28.6. Sticks and stones $ in 38808980th byte.
+    21.28.7. Permutation results $ in 38907193th byte.
+    21.28.8. Unused lemmas scheduled for deletion $ in 38964498th byte.
+  21.29. Mathbox for Steven Nguyen $ in 38971595th byte.
+    21.29.1. Utility theorems $ in 38971791th byte.
+    21.29.2. Structures $ in 38997113th byte.
+    21.29.3. Arithmetic theorems $ in 39159984th byte.
+    21.29.4. Exponents and divisibility $ in 39193067th byte.
+    21.29.5. Real subtraction $ in 39214839th byte.
+    21.29.6. Projective spaces $ in 39284471th byte.
+    21.29.7. Basic reductions for Fermat's Last Theorem $ in 39327082th byte.
+    21.29.8. Exemplar theorems $ in 39386943th byte.
+  21.30. Mathbox for Igor Ieskov $ in 39393671th byte.
+  21.31. Mathbox for Larry Lesyna $ in 39462019th byte.
+  21.32. Mathbox for OpenAI $ in 39462348th byte.
+  21.33. Mathbox for Stefan O'Rear $ in 39463117th byte.
+    21.33.1. Additional elementary logic and set theory $ in 39463313th byte.
+    21.33.2. Additional theory of functions $ in 39464124th byte.
+    21.33.3. Additional topology $ in 39464783th byte.
+    21.33.4. Characterization of closure operators.  Kuratowski closure axioms $ in 39471339th byte.
+    21.33.5. Algebraic closure systems $ in 39480201th byte.
+    21.33.6. Miscellanea 1. Map utilities $ in 39491701th byte.
+    21.33.7. Miscellanea for polynomials $ in 39496743th byte.
+    21.33.8. Multivariate polynomials over the integers $ in 39497287th byte.
+    21.33.9. Miscellanea for Diophantine sets 1 $ in 39531620th byte.
+    21.33.10. Diophantine sets 1: definitions $ in 39533141th byte.
+    21.33.11. Diophantine sets 2 miscellanea $ in 39554452th byte.
+    21.33.12. Diophantine sets 2: union and intersection.  Monotone Boolean algebra $ in 39558915th byte.
+    21.33.13. Diophantine sets 3: construction $ in 39567350th byte.
+    21.33.14. Diophantine sets 4 miscellanea $ in 39575370th byte.
+    21.33.15. Diophantine sets 4: Quantification $ in 39581026th byte.
+    21.33.16. Diophantine sets 5: Arithmetic sets $ in 39595916th byte.
+    21.33.17. Diophantine sets 6: reusability.  renumbering of variables $ in 39607131th byte.
+    21.33.18. Pigeonhole Principle and cardinality helpers $ in 39617484th byte.
+    21.33.19. A non-closed set of reals is infinite $ in 39623139th byte.
+    21.33.20. Lagrange's rational approximation theorem $ in 39627040th byte.
+    21.33.21. Pell equations 1: A nontrivial solution always exists $ in 39642433th byte.
+    21.33.22. Pell equations 2: Algebraic number theory of the solution set $ in 39671291th byte.
+    21.33.23. Pell equations 3: characterizing fundamental solution $ in 39708545th byte.
+    21.33.24. Logarithm laws generalized to an arbitrary base $ in 39721691th byte.
+    21.33.25. Pell equations 4: the positive solution group is infinite cyclic $ in 39726580th byte.
+    21.33.26. X and Y sequences 1: Definition and recurrence laws $ in 39729632th byte.
+    21.33.27. Ordering and induction lemmas for the integers $ in 39766401th byte.
+    21.33.28. X and Y sequences 2: Order properties $ in 39783436th byte.
+    21.33.29. Congruential equations $ in 39803919th byte.
+    21.33.30. Alternating congruential equations $ in 39813490th byte.
+    21.33.31. Additional theorems on integer divisibility $ in 39826128th byte.
+    21.33.32. X and Y sequences 3: Divisibility properties $ in 39828212th byte.
+    21.33.33. X and Y sequences 4: Diophantine representability of Y $ in 39877314th byte.
+    21.33.34. X and Y sequences 5: Diophantine representability of X, ^, _C $ in 39907131th byte.
+    21.33.35. Uncategorized stuff not associated with a major project $ in 39928250th byte.
+    21.33.36. More equivalents of the Axiom of Choice $ in 39935409th byte.
+    21.33.37. Finitely generated left modules $ in 39989823th byte.
+    21.33.38. Noetherian left modules I $ in 39996365th byte.
+    21.33.39. Addenda for structure powers $ in 40009475th byte.
+    21.33.40. Every set admits a group structure iff choice $ in 40018846th byte.
+    21.33.41. Noetherian rings and left modules II $ in 40035429th byte.
+    21.33.42. Hilbert's Basis Theorem $ in 40042463th byte.
+    21.33.43. Additional material on polynomials [DEPRECATED] $ in 40065814th byte.
+    21.33.44. Degree and minimal polynomial of algebraic numbers $ in 40070551th byte.
+    21.33.45. Algebraic integers I $ in 40084607th byte.
+    21.33.46. The determinant / matrix adjugate/adjunct $ in 40107566th byte.
+    21.33.47. Endomorphism algebra $ in 40109088th byte.
+    21.33.48. The class equation $ in 40131149th byte.
+    21.33.49. Cyclic groups and order $ in 40131338th byte.
+    21.33.50. Cyclotomic polynomials $ in 40144969th byte.
+    21.33.51. Wedderburn's little theorem $ in 40157789th byte.
+    21.33.52. Hybrid categories proposal $ in 40157987th byte.
+    21.33.53. Miscellaneous topology $ in 40158184th byte.
+  21.34. Mathbox for Noam Pasman $ in 40165935th byte.
+  21.35. Mathbox for Jon Pennant $ in 40166536th byte.
+  21.36. Mathbox for Richard Penner $ in 40185199th byte.
+    21.36.1. Set Theory and Ordinal Numbers $ in 40185396th byte.
+    21.36.2. Natural addition of Cantor normal forms $ in 40273363th byte.
+    21.36.3. Surreal Contributions $ in 40374193th byte.
+    21.36.4. Short Studies $ in 40391597th byte.
+      21.36.4.1. Additional work on conditional logical operator $ in 40401854th byte.
+      21.36.4.2. Sophisms $ in 40423024th byte.
+      21.36.4.3. Finite Sets $ in 40425978th byte.
+      21.36.4.4. General Observations $ in 40428702th byte.
+      21.36.4.5. Infinite Sets $ in 40451701th byte.
+      21.36.4.6. Finite intersection property $ in 40454563th byte.
+      21.36.4.7. RP ADDTO: Subclasses and subsets $ in 40459943th byte.
+      21.36.4.8. RP ADDTO: The intersection of a class $ in 40460830th byte.
+      21.36.4.9. RP ADDTO: Theorems requiring subset and intersection existence $ in 40462749th byte.
+      21.36.4.10. RP ADDTO: Relations $ in 40465089th byte.
+      21.36.4.11. RP ADDTO: Functions $ in 40471321th byte.
+      21.36.4.12. RP ADDTO: Finite induction (for finite ordinals) $ in 40473732th byte.
+      21.36.4.13. RP ADDTO: First and second members of an ordered pair $ in 40475033th byte.
+      21.36.4.14. RP ADDTO: The reflexive and transitive properties of relations $ in 40477215th byte.
+      21.36.4.15. RP ADDTO: Basic properties of closures $ in 40480969th byte.
+      21.36.4.16. RP REPLACE: Definitions and basic properties of transitive closures $ in 40503655th byte.
+      21.36.4.17. Additions for square root; absolute value $ in 40504238th byte.
+    21.36.5. Additional statements on relations and subclasses $ in 40522143th byte.
+      21.36.5.1. Transitive relations (not to be confused with transitive classes). $ in 40533738th byte.
+      21.36.5.2. Reflexive closures $ in 40537642th byte.
+      21.36.5.3. Finite relationship composition. $ in 40540678th byte.
+      21.36.5.4. Transitive closure of a relation $ in 40590338th byte.
+      21.36.5.5. Adapted from Frege $ in 40617814th byte.
+    21.36.6. Propositions from _Begriffsschrift_ $ in 40636394th byte.
+      21.36.6.1. _Begriffsschrift_ Chapter I $ in 40639708th byte.
+      21.36.6.2. _Begriffsschrift_ Notation hints $ in 40645271th byte.
+      21.36.6.3. _Begriffsschrift_ Chapter II Implication $ in 40652058th byte.
+      21.36.6.4. _Begriffsschrift_ Chapter II Implication and Negation $ in 40666172th byte.
+      21.36.6.5. _Begriffsschrift_ Chapter II with logical equivalence $ in 40675596th byte.
+      21.36.6.6. _Begriffsschrift_ Chapter II with equivalence of sets $ in 40687784th byte.
+      21.36.6.7. _Begriffsschrift_ Chapter II with equivalence of classes $ in 40698041th byte.
+      21.36.6.8. _Begriffsschrift_ Chapter III Properties hereditary in a sequence $ in 40706018th byte.
+      21.36.6.9. _Begriffsschrift_ Chapter III Following in a sequence $ in 40711746th byte.
+      21.36.6.10. _Begriffsschrift_ Chapter III Member of sequence $ in 40731413th byte.
+      21.36.6.11. _Begriffsschrift_ Chapter III Single-valued procedures $ in 40741532th byte.
+    21.36.7. Exploring Topology via Seifert and Threlfall $ in 40758737th byte.
+      21.36.7.1. Equinumerosity of sets of relations and maps $ in 40759081th byte.
+      21.36.7.2. Generic Pseudoclosure Spaces, Pseudointerior Spaces, and Pseudoneighborhoods $ in 40790939th byte.
+      21.36.7.3. Generic Neighborhood Spaces $ in 40923580th byte.
+    21.36.8. Exploring Higher Homotopy via Kerodon $ in 40936791th byte.
+      21.36.8.1. Simplicial Sets $ in 40937069th byte.
+  21.37. Mathbox for Stanislas Polu $ in 40943492th byte.
+    21.37.1. IMO Problems $ in 40945405th byte.
+      21.37.1.1. IMO 1972 B2 $ in 40945588th byte.
+    21.37.2. INT Inequalities Proof Generator $ in 40960160th byte.
+    21.37.3. N-Digit Addition Proof Generator $ in 40969855th byte.
+    21.37.4. AM-GM (for k = 2,3,4) $ in 40970752th byte.
+  21.38. Mathbox for Rohan Ridenour $ in 40976442th byte.
+    21.38.1. Misc $ in 40976639th byte.
+    21.38.2. Monoid rings $ in 40983348th byte.
+    21.38.3. Shorter primitive equivalent of ax-groth $ in 41004494th byte.
+      21.38.3.1. Grothendieck universes are closed under collection $ in 41004705th byte.
+      21.38.3.2. Minimal universes $ in 41021943th byte.
+      21.38.3.3. Primitive equivalent of ax-groth $ in 41051613th byte.
+  21.39. Mathbox for Steve Rodriguez $ in 41066116th byte.
+    21.39.1. Miscellanea $ in 41066314th byte.
+    21.39.2. Ratio test for infinite series convergence and divergence $ in 41070871th byte.
+    21.39.3. Multiples $ in 41088485th byte.
+    21.39.4. Function operations $ in 41101585th byte.
+    21.39.5. Calculus $ in 41107290th byte.
+    21.39.6. The generalized binomial coefficient operation $ in 41126645th byte.
+    21.39.7. Binomial series $ in 41133149th byte.
+  21.40. Mathbox for Andrew Salmon $ in 41185989th byte.
+    21.40.1. Principia Mathematica * 10 $ in 41186185th byte.
+    21.40.2. Principia Mathematica * 11 $ in 41190308th byte.
+    21.40.3. Predicate Calculus $ in 41199399th byte.
+    21.40.4. Principia Mathematica * 13 and * 14 $ in 41204212th byte.
+    21.40.5. Set Theory $ in 41218929th byte.
+    21.40.6. Arithmetic $ in 41226310th byte.
+    21.40.7. Geometry $ in 41226921th byte.
+  21.41. Mathbox for Alan Sare $ in 41234175th byte.
+    21.41.1. Auxiliary theorems for the Virtual Deduction tool $ in 41236955th byte.
+    21.41.2. Supplementary unification deductions $ in 41238659th byte.
+    21.41.3. Conventional Metamath proofs, some derived from VD proofs $ in 41245089th byte.
+    21.41.4. What is Virtual Deduction? $ in 41296725th byte.
+    21.41.5. Virtual Deduction Theorems $ in 41317629th byte.
+    21.41.6. Theorems proved using Virtual Deduction $ in 41417258th byte.
+    21.41.7. Theorems proved using Virtual Deduction with mmj2 assistance $ in 41436969th byte.
+    21.41.8. Virtual Deduction transcriptions of textbook proofs $ in 41646999th byte.
+    21.41.9. Theorems proved using conjunction-form Virtual Deduction $ in 41658760th byte.
+    21.41.10. Theorems with a VD proof in conventional notation derived from a VD proof $ in 41669613th byte.
+    21.41.11. Theorems with a proof in conventional notation derived from a VD proof $ in 41675348th byte.
+  21.42. Mathbox for Glauco Siliprandi $ in 41696053th byte.
+    21.42.1. Miscellanea $ in 41696253th byte.
+    21.42.2. Functions $ in 41792348th byte.
+    21.42.3. Ordering on real numbers - Real and complex numbers basic operations $ in 41880004th byte.
+    21.42.4. Real intervals $ in 42056529th byte.
+    21.42.5. Finite sums $ in 42115632th byte.
+    21.42.6. Finite multiplication of numbers and finite multiplication of functions $ in 42127534th byte.
+    21.42.7. Limits $ in 42171375th byte.
+      21.42.7.1. Inferior limit (lim inf) $ in 42439458th byte.
+      21.42.7.2. Limits for sequences of extended real numbers $ in 42511849th byte.
+    21.42.8. Trigonometry $ in 42562220th byte.
+    21.42.9. Continuous Functions $ in 42568663th byte.
+    21.42.10. Derivatives $ in 42643642th byte.
+    21.42.11. Integrals $ in 42809914th byte.
+    21.42.12. Stone Weierstrass theorem - real version $ in 42907889th byte.
+    21.42.13. Wallis' product for &pi; $ in 43153032th byte.
+    21.42.14. Stirling's approximation formula for ` n ` factorial $ in 43189071th byte.
+    21.42.15. Dirichlet kernel $ in 43261539th byte.
+    21.42.16. Fourier Series $ in 43331706th byte.
+    21.42.17. e is transcendental $ in 44203299th byte.
+    21.42.18. n-dimensional Euclidean space $ in 44348246th byte.
+    21.42.19. Basic measure theory $ in 44382862th byte.
+      21.42.19.1. &sigma;-Algebras $ in 44383053th byte.
+      21.42.19.2. Sum of nonnegative extended reals $ in 44428412th byte.
+      21.42.19.3. Measures $ in 44579665th byte.
+      21.42.19.4. Outer measures and Caratheodory's construction $ in 44647368th byte.
+      21.42.19.5. Lebesgue measure on n-dimensional Real numbers $ in 44717275th byte.
+      21.42.19.6. Measurable functions $ in 45110734th byte.
+  21.43. Mathbox for Saveliy Skresanov $ in 45387157th byte.
+    21.43.1. Ceva's theorem $ in 45387357th byte.
+    21.43.2. Simple groups $ in 45409177th byte.
+  21.44. Mathbox for Ender Ting $ in 45410346th byte.
+    21.44.1. Increasing sequences and subsequences $ in 45410539th byte.
+  21.45. Mathbox for Jarvin Udandy $ in 45421883th byte.
+  21.46. Mathbox for Adhemar $ in 45482966th byte.
+    21.46.1. Minimal implicational calculus $ in 45483648th byte.
+  21.47. Mathbox for Alexander van der Vekens $ in 45501475th byte.
+    21.47.1. General auxiliary theorems (1) $ in 45501682th byte.
+      21.47.1.1. Unordered and ordered pairs - extension for singletons $ in 45501883th byte.
+      21.47.1.2. Unordered and ordered pairs - extension for unordered pairs $ in 45504128th byte.
+      21.47.1.3. Unordered and ordered pairs - extension for ordered pairs $ in 45504865th byte.
+      21.47.1.4. Relations - extension $ in 45509052th byte.
+      21.47.1.5. Definite description binder (inverted iota) - extension $ in 45510379th byte.
+      21.47.1.6. Functions - extension $ in 45511541th byte.
+    21.47.2. Alternative for Russell's definition of a description binder $ in 45545234th byte.
+    21.47.3. Double restricted existential uniqueness $ in 45553210th byte.
+      21.47.3.1. Restricted quantification (extension) $ in 45553421th byte.
+      21.47.3.2. Restricted uniqueness and "at most one" quantification $ in 45558045th byte.
+      21.47.3.3. Analogs to Existential uniqueness (double quantification) $ in 45561267th byte.
+      21.47.3.4. Additional theorems for double restricted existential uniqueness $ in 45563789th byte.
+    21.47.4. Alternative definitions of function and operation values $ in 45571448th byte.
+      21.47.4.1. Restricted quantification (extension) $ in 45579718th byte.
+      21.47.4.2. The universal class (extension) $ in 45580505th byte.
+      21.47.4.3. Introduce the Axiom of Power Sets (extension) $ in 45580995th byte.
+      21.47.4.4. Predicate "defined at" $ in 45582169th byte.
+      21.47.4.5. Alternative definition of the value of a function $ in 45585258th byte.
+      21.47.4.6. Alternative definition of the value of an operation $ in 45609400th byte.
+    21.47.5. Alternative definitions of function values (2) $ in 45625787th byte.
+    21.47.6. General auxiliary theorems (2) $ in 45664667th byte.
+      21.47.6.1. Logical conjunction - extension $ in 45664868th byte.
+      21.47.6.2. Abbreviated conjunction and disjunction of three wff's - extension $ in 45665376th byte.
+      21.47.6.3. Negated membership (alternative) $ in 45666311th byte.
+      21.47.6.4. The empty set - extension $ in 45668953th byte.
+      21.47.6.5. Indexed union and intersection - extension $ in 45669661th byte.
+      21.47.6.6. Functions - extension $ in 45671313th byte.
+      21.47.6.7. Maps-to notation - extension $ in 45680155th byte.
+      21.47.6.8. Subtraction - extension $ in 45682496th byte.
+      21.47.6.9. Ordering on reals (cont.) - extension $ in 45684449th byte.
+      21.47.6.10. Imaginary and complex number properties - extension $ in 45688638th byte.
+      21.47.6.11. Nonnegative integers (as a subset of complex numbers) - extension $ in 45692200th byte.
+      21.47.6.12. Integers (as a subset of complex numbers) - extension $ in 45692728th byte.
+      21.47.6.13. Decimal arithmetic  - extension $ in 45693475th byte.
+      21.47.6.14. Upper sets of integers - extension $ in 45695060th byte.
+      21.47.6.15. Infinity and the extended real number system (cont.) - extension $ in 45695864th byte.
+      21.47.6.16. Finite intervals of integers - extension $ in 45696790th byte.
+      21.47.6.17. Half-open integer ranges - extension $ in 45703605th byte.
+      21.47.6.18. The modulo (remainder) operation - extension $ in 45712709th byte.
+      21.47.6.19. The infinite sequence builder "seq" $ in 45714433th byte.
+      21.47.6.20. Finite and infinite sums - extension $ in 45717042th byte.
+      21.47.6.21. Extensible structures - extension $ in 45720878th byte.
+    21.47.7. Preimages of function values $ in 45722667th byte.
+    21.47.8. Partitions of real intervals $ in 45752936th byte.
+    21.47.9. Shifting functions with an integer range domain $ in 45793835th byte.
+    21.47.10. Words over a set (extension) $ in 45800345th byte.
+      21.47.10.1. Last symbol of a word - extension $ in 45800544th byte.
+    21.47.11. Unordered pairs $ in 45801910th byte.
+      21.47.11.1. Interchangeable setvar variables $ in 45802096th byte.
+      21.47.11.2. Set of unordered pairs $ in 45822916th byte.
+      21.47.11.3. Proper (unordered) pairs $ in 45844362th byte.
+      21.47.11.4. Set of proper unordered pairs $ in 45862525th byte.
+    21.47.12. Number theory (extension) $ in 45879475th byte.
+      21.47.12.1. Fermat numbers $ in 45879671th byte.
+      21.47.12.2. Mersenne primes $ in 45954508th byte.
+      21.47.12.3. Proth's theorem $ in 45990998th byte.
+      21.47.12.4. Solutions of quadratic equations $ in 45999877th byte.
+    21.47.13. Even and odd numbers $ in 46010868th byte.
+      21.47.13.1. Definitions and basic properties $ in 46011993th byte.
+      21.47.13.2. Alternate definitions using the "divides" relation $ in 46021827th byte.
+      21.47.13.3. Alternate definitions using the "modulo" operation $ in 46024807th byte.
+      21.47.13.4. Alternate definitions using the "gcd" operation $ in 46027866th byte.
+      21.47.13.5. Theorems of part 5 revised $ in 46030240th byte.
+      21.47.13.6. Theorems of part 6 revised $ in 46032032th byte.
+      21.47.13.7. Theorems of AV's mathbox revised $ in 46042317th byte.
+      21.47.13.8. Additional theorems $ in 46049424th byte.
+      21.47.13.9. Perfect Number Theorem (revised) $ in 46059462th byte.
+    21.47.14. Number theory (extension 2) $ in 46070309th byte.
+      21.47.14.1. Fermat pseudoprimes $ in 46070507th byte.
+      21.47.14.2. Goldbach's conjectures $ in 46091253th byte.
+    21.47.15. Graph theory (extension) $ in 46201967th byte.
+      21.47.15.1. Isomorphic graphs $ in 46202162th byte.
+      21.47.15.2. Loop-free graphs - extension $ in 46235692th byte.
+      21.47.15.3. Walks - extension $ in 46236984th byte.
+      21.47.15.4. Edges of graphs expressed as sets of unordered pairs $ in 46247190th byte.
+    21.47.16. Monoids (extension) $ in 46259769th byte.
+      21.47.16.1. Auxiliary theorems $ in 46259959th byte.
+      21.47.16.2. Magmas, Semigroups and Monoids (extension) $ in 46263222th byte.
+      21.47.16.3. Magma homomorphisms and submagmas $ in 46267490th byte.
+      21.47.16.4. Examples and counterexamples for magmas, semigroups and monoids (extension) $ in 46292863th byte.
+      21.47.16.5. Group sum operation (extension 1) $ in 46303000th byte.
+    21.47.17. Magmas and internal binary operations (alternate approach) $ in 46306273th byte.
+      21.47.17.1. Laws for internal binary operations $ in 46309056th byte.
+      21.47.17.2. Internal binary operations $ in 46316450th byte.
+      21.47.17.3. Alternative definitions for magmas and semigroups $ in 46324896th byte.
+    21.47.18. Categories (extension) $ in 46329909th byte.
+      21.47.18.1. Subcategories (extension) $ in 46330102th byte.
+    21.47.19. Rings (extension) $ in 46332764th byte.
+      21.47.19.1. Nonzero rings (extension) $ in 46332951th byte.
+      21.47.19.2. Non-unital rings ("rngs") $ in 46337148th byte.
+      21.47.19.3. Rng homomorphisms $ in 46374583th byte.
+      21.47.19.4. Ring homomorphisms (extension) $ in 46404396th byte.
+      21.47.19.5. Subrings of non-unital rings $ in 46406016th byte.
+      21.47.19.6. Ideals of non-unital rings $ in 46423841th byte.
+      21.47.19.7. Condition for a non-unital ring to be unital $ in 46446472th byte.
+      21.47.19.8. Ideals as non-unital rings $ in 46503105th byte.
+      21.47.19.9. The non-unital ring of even integers $ in 46510432th byte.
+      21.47.19.10. A constructed not unital ring $ in 46526600th byte.
+      21.47.19.11. The category of non-unital rings $ in 46531642th byte.
+      21.47.19.12. The category of (unital) rings $ in 46585088th byte.
+      21.47.19.13. Subcategories of the category of rings $ in 46659083th byte.
+    21.47.20. Basic algebraic structures (extension) $ in 46690981th byte.
+      21.47.20.1. Auxiliary theorems $ in 46691190th byte.
+      21.47.20.2. The binomial coefficient operation (extension) $ in 46708471th byte.
+      21.47.20.3. The ` ZZ `-module ` ZZ X. ZZ ` $ in 46713812th byte.
+      21.47.20.4. Group sum operation (extension 2) $ in 46721175th byte.
+      21.47.20.5. Symmetric groups (extension) $ in 46724393th byte.
+      21.47.20.6. Divisibility (extension) $ in 46727557th byte.
+      21.47.20.7. The support of functions (extension) $ in 46728868th byte.
+      21.47.20.8. Finitely supported functions (extension) $ in 46736831th byte.
+      21.47.20.9. Left modules (extension) $ in 46744464th byte.
+      21.47.20.10. Associative algebras (extension) $ in 46748683th byte.
+      21.47.20.11. Univariate polynomials (extension) $ in 46749661th byte.
+      21.47.20.12. Univariate polynomials (examples) $ in 46767495th byte.
+    21.47.21. Linear algebra (extension) $ in 46770084th byte.
+      21.47.21.1. The subalgebras of diagonal and scalar matrices (extension) $ in 46770281th byte.
+      21.47.21.2. Linear combinations $ in 46775683th byte.
+      21.47.21.3. Linear independence $ in 46823356th byte.
+      21.47.21.4. Simple left modules and the ` ZZ `-module $ in 46894163th byte.
+      21.47.21.5. Differences between (left) modules and (left) vector spaces $ in 46917936th byte.
+    21.47.22. Complexity theory $ in 46923913th byte.
+      21.47.22.1. Auxiliary theorems $ in 46924101th byte.
+      21.47.22.2. The modulo (remainder) operation (extension) $ in 46932962th byte.
+      21.47.22.3. Even and odd integers $ in 46941176th byte.
+      21.47.22.4. The natural logarithm on complex numbers (extension) $ in 46947970th byte.
+      21.47.22.5. Division of functions $ in 46949375th byte.
+      21.47.22.6. Upper bounds $ in 46955951th byte.
+      21.47.22.7. Logarithm to an arbitrary base (extension) $ in 46964717th byte.
+      21.47.22.8. The binary logarithm $ in 46971307th byte.
+      21.47.22.9. Binary length $ in 46978644th byte.
+      21.47.22.10. Digits $ in 46998682th byte.
+      21.47.22.11. Nonnegative integer as sum of its shifted digits $ in 47017191th byte.
+      21.47.22.12. Algorithms for the multiplication of nonnegative integers $ in 47039914th byte.
+      21.47.22.13. N-ary functions $ in 47041949th byte.
+      21.47.22.14. Primitive recursive functions $ in 47067284th byte.
+      21.47.22.15. The Ackermann function $ in 47068786th byte.
+    21.47.23. Elementary geometry (extension) $ in 47102763th byte.
+      21.47.23.1. Auxiliary theorems $ in 47102965th byte.
+      21.47.23.2. Real euclidean space of dimension 2 $ in 47112199th byte.
+      21.47.23.3. Spheres and lines in real Euclidean spaces $ in 47132451th byte.
+  21.48. Mathbox for Zhi Wang $ in 47282178th byte.
+    21.48.1. Propositional calculus $ in 47282369th byte.
+    21.48.2. Predicate calculus with equality $ in 47285676th byte.
+      21.48.2.1. Axiom scheme ax-5 (Distinctness) $ in 47285879th byte.
+    21.48.3. ZF Set Theory - start with the Axiom of Extensionality $ in 47286883th byte.
+      21.48.3.1. Restricted quantification $ in 47287108th byte.
+      21.48.3.2. The empty set $ in 47290184th byte.
+      21.48.3.3. Unordered and ordered pairs $ in 47292332th byte.
+      21.48.3.4. The union of a class $ in 47294554th byte.
+    21.48.4. ZF Set Theory - add the Axiom of Replacement $ in 47295089th byte.
+      21.48.4.1. Theorems requiring subset and intersection existence $ in 47295304th byte.
+    21.48.5. ZF Set Theory - add the Axiom of Power Sets $ in 47295905th byte.
+      21.48.5.1. Functions $ in 47296119th byte.
+      21.48.5.2. Operations $ in 47304827th byte.
+    21.48.6. ZF Set Theory - add the Axiom of Union $ in 47306866th byte.
+      21.48.6.1. Equinumerosity $ in 47307075th byte.
+    21.48.7. Order sets $ in 47309811th byte.
+      21.48.7.1. Real number intervals $ in 47309992th byte.
+    21.48.8. Moore spaces $ in 47311914th byte.
+    21.48.9. Topology $ in 47312396th byte.
+      21.48.9.1. Closure and interior $ in 47312613th byte.
+      21.48.9.2. Neighborhoods $ in 47315345th byte.
+      21.48.9.3. Subspace topologies $ in 47319748th byte.
+      21.48.9.4. Limits and continuity in topological spaces $ in 47322091th byte.
+      21.48.9.5. Topological definitions using the reals $ in 47323503th byte.
+      21.48.9.6. Separated sets $ in 47327351th byte.
+      21.48.9.7. Separated spaces: T0, T1, T2 (Hausdorff) ... $ in 47337955th byte.
+    21.48.10. Preordered sets and directed sets using extensible structures $ in 47362197th byte.
+    21.48.11. Posets and lattices using extensible structures $ in 47363297th byte.
+      21.48.11.1. Posets $ in 47363515th byte.
+      21.48.11.2. Lattices $ in 47377920th byte.
+      21.48.11.3. Subset order structures $ in 47380359th byte.
+    21.48.12. Categories $ in 47398236th byte.
+      21.48.12.1. Categories $ in 47398417th byte.
+      21.48.12.2. Monomorphisms and epimorphisms $ in 47405481th byte.
+      21.48.12.3. Functors $ in 47407405th byte.
+    21.48.13. Examples of categories $ in 47408578th byte.
+      21.48.13.1. Thin categories $ in 47408771th byte.
+      21.48.13.2. Preordered sets as thin categories $ in 47452392th byte.
+      21.48.13.3. Monoids as categories $ in 47464765th byte.
+  21.49. Mathbox for Emmett Weisz $ in 47476466th byte.
+    21.49.1. Miscellaneous Theorems $ in 47476661th byte.
+    21.49.2. Set Recursion $ in 47483185th byte.
+      21.49.2.1. Basic Properties of Set Recursion $ in 47483369th byte.
+      21.49.2.2. Examples and properties of set recursion $ in 47521186th byte.
+    21.49.3. Construction of Games and Surreal Numbers $ in 47529495th byte.
+  21.50. Mathbox for David A. Wheeler $ in 47535338th byte.
+    21.50.1. Simplify propositional expressions $ in 47535951th byte.
+    21.50.2. Natural deduction $ in 47536226th byte.
+    21.50.3. Greater than, greater than or equal to. $ in 47536984th byte.
+    21.50.4. Hyperbolic trigonometric functions $ in 47542534th byte.
+    21.50.5. Reciprocal trigonometric functions (sec, csc, cot) $ in 47548453th byte.
+    21.50.6. Identities for "if" $ in 47559202th byte.
+    21.50.7. Other functions $ in 47559864th byte.
+    21.50.8. Logarithms generalized to arbitrary base using ` logb ` $ in 47561481th byte.
+    21.50.9. Logarithm laws generalized to an arbitrary base - log_ $ in 47562346th byte.
+    21.50.10. Gottlob Frege's work: _Begriffsschrift_ and _Grundgesetze der Arithmetik_ $ in 47564030th byte.
+    21.50.11. Formally define notions such as reflexivity $ in 47573219th byte.
+    21.50.12. Algebra helpers $ in 47577117th byte.
+    21.50.13. Algebra helper examples $ in 47581991th byte.
+    21.50.14. Formal methods "surprises" $ in 47584469th byte.
+    21.50.15. Allsome quantifier $ in 47593998th byte.
+    21.50.16. Miscellaneous $ in 47600797th byte.
+    21.50.17. Theorems about algebraic numbers $ in 47602886th byte.
+    21.50.18. Other results $ in 47614126th byte.
+    21.50.19. Examples $ in 47614346th byte.
+  21.51. Mathbox for Kunhao Zheng $ in 47614903th byte.
+    21.51.1. Weighted AM-GM inequality $ in 47615098th byte.
